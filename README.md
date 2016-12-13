@@ -1,13 +1,18 @@
 # Norigin Media Mock API
 
-Based on RAML: [http://raml.org/](http://raml.org/).
+- Based on RAML: [http://raml.org/](http://raml.org/).
 
 ```zsh
 npm install
 npm run start:server
 ```
 
-E.g. navigate to [http://localhost:1337/anonymous](http://localhost:1337/anonymous).
+- E.g. navigate to [http://localhost:1337/anonymous](http://localhost:1337/anonymous).
 
-To modify endpoints, go to `api.raml`.
-Static JSON responses are in `examples/` folder.
+- To modify endpoints, go to `api.raml`.
+
+- Static JSON responses are in `examples/` folder.
+
+- If you need to use some existing content,
+just fetch the real data raw JSON,
+format it with [https://jsonformatter.curiousconcept.com/](this), put into JSON file in `examples`, happy days.
