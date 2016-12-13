@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Halloween compilation",
+    "type": "vod",
+    "description": "Dress up for Halloween with Peppa and George! Listen to Pedro\\'s scary story, explore the dark cellar with Daddy Pig and meet the creatures of the night with Grandpa Pig!☆ Subscribe for more videos: http://bit.ly/PeppaPigYT☆ Like Peppa Pig on Facebook: http://bit.ly/PeppaPigFB☆ Watch more: http://bit.ly/PeppaPigYTEps☆ Visit our official website:http://bit.ly/PeppaPigWebsite☆ Follow Peppa on Twitter: http://bit.ly/PeppaPigTwitter",
+    "images": {
+      "CarouselLandscapeHeader": "https://demo-test.noriginmedia.com/demo-content/svod/Peppa_Pig_on_Youtube/PeppaPig-Latestvideos-S01-E2016-10-15-landscape.jpg"
+    },
+    "structuredTags": {
+      "terminals": [
+        {
+          "id": "Smartphone_IOS@terminals",
+          "title": "Smartphone_IOS"
+        },
+        {
+          "id": "Smartphone_Android@terminals",
+          "title": "Smartphone_Android"
+        },
+        {
+          "id": "Tablet_Android@terminals",
+          "title": "Tablet_Android"
+        },
+        {
+          "id": "Tablet_IOS@terminals",
+          "title": "Tablet_IOS"
+        },
+        {
+          "id": "PC@terminals",
+          "title": "PC"
+        },
+        {
+          "id": "SmartTV@terminals",
+          "title": "SmartTV"
+        }
+      ]
+    },
+    "metadata": {
+      "duration": 1080
+    },
+    "id": "dummy_vod_id"
+  }
+]

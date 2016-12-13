@@ -1,0 +1,7 @@
+{
+  "sessionId": "dummy-session",
+  "credentials": {
+    "encrypted_username": "123username123",
+    "encrypted_password": "12345678"
+  }
+}

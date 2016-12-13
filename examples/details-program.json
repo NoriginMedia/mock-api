@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Middagsmagasinet",
+    "description": "Middagsmagasinet",
+    "images": {
+      "CarouselLandscapeHeader": "http://ss18i20.stream.ip-only.net/TVE/images_test/EPG Images/5013/688B87BD15896C38E52AF76DBCC670FC6E1B4073_5013-1264x711.jpg"
+    },
+    "start": 1481630400000,
+    "end": 1481634000000,
+    "channelInfo": {
+      "images": {
+        "LOGO": "https://demo-test.noriginmedia.com/ard@logo.png"
+      },
+      "title": "Das Erste",
+      "channelId": "ard",
+      "terminals": [
+        "Smartphone_IOS",
+        "Smartphone_Android",
+        "Tablet_Android",
+        "Tablet_IOS",
+        "PC",
+        "SmartTV"
+      ]
+    },
+    "id": "dummy_program_id"
+  }
+]

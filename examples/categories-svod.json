@@ -1,0 +1,83 @@
+[
+  {
+    "title":"Best of YTITTY",
+    "contents":[
+      {
+        "type":"vod",
+        "title":"VERDAMMT NORMAL (Official Music Video)",
+        "images":{
+          "CarouselLandscapeSmall":"https://demo-test.noriginmedia.com/demo-content/svod/Best_of_YTITTY/Y-TittysBeste-S01-E2014-08-08-landscape.jpg"
+        },
+        "metadata":{
+          "duration":240
+        },
+        "id":"dummy_vod_id"
+      },
+      {
+        "type":"vod",
+        "title":"Thrift Shop (Macklemore feat. Wanz) PARODIE",
+        "images":{
+          "CarouselLandscapeSmall":"https://demo-test.noriginmedia.com/demo-content/svod/Best of YTITTY/Y-TittysBeste-S01-E2013-03-08-landscape.jpg"
+        },
+        "metadata":{
+          "duration":240
+        },
+        "id":"dummy_vod_id"
+      }
+    ]
+  },
+  {
+    "title":"Masha and Bear on Youtube",
+    "contents":[
+      {
+        "type":"vod",
+        "title":"Bon appétit!",
+        "images":{
+          "CarouselLandscapeSmall":"https://demo-test.noriginmedia.com/demo-content/svod/Masha_and_Bear_on_Youtube/MashaandTheBear-AllEpisodes-S01-E24-landscape.jpg"
+        },
+        "metadata":{
+          "duration":420
+        },
+        "id": "dummy_vod_id"
+      },
+      {
+        "type":"vod",
+        "title":"The very fairy tale",
+        "images":{
+          "CarouselLandscapeSmall":"https://demo-test.noriginmedia.com/demo-content/svod/Masha and Bear on Youtube/MashaandTheBear-AllEpisodes-S01-E54-landscape.jpg"
+        },
+        "metadata":{
+          "duration":540
+        },
+        "id": "dummy_vod_id"
+      }
+    ]
+  },
+  {
+    "title":"Peppa Pig on Youtube",
+    "contents":[
+      {
+        "type":"vod",
+        "title":"Bedtime story (clip)",
+        "images":{
+          "CarouselLandscapeSmall":"https://demo-test.noriginmedia.com/demo-content/svod/Peppa Pig on Youtube/PeppaPig-Latestvideos-S01-E2016-10-18-landscape.jpg"
+        },
+        "metadata":{
+          "duration":120
+        },
+        "id": "dummy_vod_id"
+      },
+      {
+        "type":"vod",
+        "title":"Halloween compilation",
+        "images":{
+          "CarouselLandscapeSmall":"https://demo-test.noriginmedia.com/demo-content/svod/Peppa_Pig_on_Youtube/PeppaPig-Latestvideos-S01-E2016-10-15-landscape.jpg"
+        },
+        "metadata":{
+          "duration":1080
+        },
+        "id": "dummy_vod_id"
+      }
+    ]
+  }
+]

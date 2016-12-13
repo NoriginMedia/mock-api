@@ -1,0 +1,14 @@
+{
+  "name": "nm-mock-api",
+  "version": "0.0.1",
+  "description": "Norigin Media Mocked API for demo and dev purposes based on RAML server",
+  "scripts": {
+    "start:server": "./node_modules/.bin/osprey-mock-service -f api.raml -p 1337 --cors"
+  },
+  "author": "NoriginMedia AS",
+  "license": "ISC",
+  "dependencies": {
+    "osprey-mock-service": "^0.1.0"
+  },
+  "devDependencies": {}
+}

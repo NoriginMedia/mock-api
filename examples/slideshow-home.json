@@ -1,0 +1,150 @@
+[
+  {
+    "contents":[
+      {
+        "type":"program",
+        "title":"Kærlighedens storm",
+        "description":"Tysk dramaserie.",
+        "images":{
+          "CarouselLandscapeHeader":"http://ss18i20.stream.ip-only.net/TVE/images_test/EPG Images/5013/2987F3C1B479A33E1B0782B5303217B13E26B726_5013-1264x711.jpg"
+        },
+        "start":1481551800000,
+        "end":1481554800000,
+        "channelInfo":{
+          "images":{
+            "LOGO":"https://demo-test.noriginmedia.com/ard@logo.png"
+          },
+          "title":"Das Erste",
+          "channelId":"ard"
+        },
+        "id":"dummy_program_id"
+      },
+      {
+        "type":"program",
+        "title":"Guld fra gemmerne",
+        "description":"Horst Lichter får besøg af mennesker, der har gjort interessante fund på loftet, kælderen eller på loppemarkedet. Sammen med eksperter vurderer han genstandene og hvis ejeren af genstanden vil sælge, er der mulighed for at gøre en god handel.",
+        "images":{
+          "CarouselLandscapeHeader":"http://ss18i20.stream.ip-only.net/TVE/images_test/EPG Images/5050/6EA03711DB854B47FD55AE12BFCD2C79DA9210FB_5050-1264x711.jpg"
+        },
+        "start":1481551500000,
+        "end":1481554800000,
+        "channelInfo":{
+          "images":{
+            "LOGO":"https://demo-test.noriginmedia.com/zdf@logo.png"
+          },
+          "title":"ZDF",
+          "channelId":"zdf"
+        },
+        "id":"dummy_program_id"
+      },
+      {
+        "type":"program",
+        "title":"Billard: Snooker - Home Nations Series, direkte",
+        "description":"Fra Glasgow, Skotland.",
+        "images":{
+          "CarouselLandscapeHeader":"http://ss18i20.stream.ip-only.net/TVE/images_test/EPG Images/16045/1291A346A1624A45A7369983BABC03EF54C0AE72_16045-1264x711.jpg"
+        },
+        "start":1481547600000,
+        "end":1481563800000,
+        "channelInfo":{
+          "images":{
+            "LOGO":"https://demo-test.noriginmedia.com/eurosport-de@logo.png"
+          },
+          "title":"Eurosport 1",
+          "channelId":"eurosport-de"
+        },
+        "id":"dummy_program_id"
+      },
+      {
+        "type":"program",
+        "title":"Raspoutine",
+        "description":"Grigori Efimovitch Raspoutine est introduit en 1907 dans l'intimité de la famille impériale russe, à Saint-Pétersbourg. Nicolas II et son épouse Alexandra espèrent que ce mystique, guérisseur et prédicateur itinérant pourra guérir leur fils Alexis, atteint d'hémophilie. Cent ans après son assassinat, le 29 décembre 1916, celui dont l'influence néfaste sur la tsarine, voire sur son époux, aurait contribué à précipiter la Russie dans la révolution, continue de susciter un débat passionné, notamment en Russie. Mérite-t-il sa réputation sulfureuse ? Historiens et archivistes témoignent.",
+        "images":{
+          "CarouselLandscapeHeader":"http://80.12.13.72/RTEFacade_RIGHTV/images/989240189.jpg"
+        },
+        "start":1481553000000,
+        "end":1481556300000,
+        "channelInfo":{
+          "images":{
+            "LOGO":"https://demo-test.noriginmedia.com/arte-hd@logo.jpg"
+          },
+          "title":"Arte HD",
+          "channelId":"arte-hd"
+        },
+        "id":"dummy_program_id"
+      },
+      {
+        "type":"program",
+        "title":"Antena 3 Noticias 1",
+        "description":"Edición del mediodía de los informativos en la que Sandra Golpe y María Rey presentan las noticias más importantes de la jornada. [S]",
+        "images":{
+          "CarouselLandscapeHeader":"https://orangetv.orange.es/RTEFacade_RIGHTV/images/205775646.l_C.jpg"
+        },
+        "start":1481551200000,
+        "end":1481553900000,
+        "channelInfo":{
+          "images":{
+            "LOGO":"https://demo-test.noriginmedia.com/antena3@logo.png"
+          },
+          "title":"Antena 3",
+          "channelId":"antena3"
+        },
+        "id":"dummy_program_id"
+      },
+      {
+        "type":"program",
+        "title":"laSexta Meteo",
+        "description":"Toda la información meteorológica en laSexta después del informativo, de la mano de Lluís Obiols. [S]",
+        "images":{
+          "CarouselLandscapeHeader":"https://orangetv.orange.es/RTEFacade_RIGHTV/images/206965049.l_C.jpg"
+        },
+        "start":1481553000000,
+        "end":1481553900000,
+        "channelInfo":{
+          "images":{
+            "LOGO":"https://demo-test.noriginmedia.com/lasexta@logo.png"
+          },
+          "title":"La Sexta",
+          "channelId":"lasexta"
+        },
+        "id":"dummy_program_id"
+      },
+      {
+        "type":"program",
+        "title":"Telediario",
+        "description":"Las últimas noticias nacionales e internacionales.",
+        "images":{
+          "CarouselLandscapeHeader":"https://orangetv.orange.es/RTEFacade_RIGHTV/images/47576943.l_C.jpg"
+        },
+        "start":1481551200000,
+        "end":1481554800000,
+        "channelInfo":{
+          "images":{
+            "LOGO":"https://demo-test.noriginmedia.com/24h@logo.png"
+          },
+          "title":"24h",
+          "channelId":"24h"
+        },
+        "id":"dummy_program_id"
+      },
+      {
+        "type":"program",
+        "title":"Bones",
+        "description":"Serie dramática. La doctora Temperance Brennan es una excelente antropóloga forense que trabaja para el Instituto Jeffersonian y es, además, escritora de novelas. Generalmente interviene en investigaciones de asesinatos cuando los restos de las víctimas están irreconocibles. Posee una extraordinaria habilidad para descifrar claves ocultas en los cuerpos de las víctimas. Trabaja junto al agente Seeley Booth, de la unidad de Investigaciones de Homicidios del FBI. [S]",
+        "images":{
+          "CarouselLandscapeHeader":"https://orangetv.orange.es/RTEFacade_RIGHTV/images/14665360.l_C.jpg"
+        },
+        "start":1481550300000,
+        "end":1481555280000,
+        "channelInfo":{
+          "images":{
+            "LOGO":"https://demo-test.noriginmedia.com/a3series@logo.png"
+          },
+          "title":"A3 Series",
+          "channelId":"a3series"
+        },
+        "id":"dummy_program_id"
+      }
+    ]
+  }
+]

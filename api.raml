@@ -1,0 +1,78 @@
+#%RAML 0.8
+title: "Norigin Media Mock API"
+
+/orange-es:
+  /anonymous:
+    get:
+      responses:
+        200:
+          body:
+            application/json:
+              example: !include examples/anonymous.json
+
+  /authenticate:
+    get:
+      responses:
+        200:
+          body:
+            application/json:
+              example: !include examples/authenticate.json
+
+/tag:
+  get:
+    responses:
+      200:
+        body:
+          application/json:
+            example: !include examples/categories-svod.json
+
+  /Slideshow@slideshow:
+    get:
+      responses:
+        200:
+          body:
+            application/json:
+              example: !include examples/slideshow-home.json
+
+/epg:
+  get:
+    responses:
+      200:
+        body:
+          application/json:
+            example: !include examples/epg.json
+
+/channel:
+  /{channelId}:
+    /stream:
+      get:
+        responses:
+          200:
+            body:
+              binary/octet-stream:
+                example: !include examples/channel-stream.example
+    /program:
+      /{programId}:
+        get:
+          responses:
+            200:
+              body:
+                application/json:
+                  example: !include examples/details-program.json
+
+/vod:
+  /{movieId}:
+    get:
+      responses:
+        200:
+          body:
+            application/json:
+              example: !include examples/details-movie.json
+
+    /stream:
+      get:
+        responses:
+          200:
+            body:
+              binary/octet-stream:
+                example: !include examples/movie-stream.example
