@@ -15,4 +15,4 @@ npm run start:server
 
 - If you need to use some existing content,
 just fetch the real data raw JSON,
-format it with [https://jsonformatter.curiousconcept.com/](this), put into JSON file in `examples`, happy days.
+format it with [this](https://jsonformatter.curiousconcept.com/), put into JSON file in `examples`, happy days.
