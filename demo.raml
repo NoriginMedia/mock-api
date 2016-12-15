@@ -1,14 +1,14 @@
 #%RAML 0.8
 title: "Norigin Media Mock API"
 
-/orange-es:
+/auth:
   /anonymous:
     get:
       responses:
         200:
           body:
             application/json:
-              example: !include examples/anonymous.json
+              example: !include examples/demo/anonymous.json
 
   /authenticate:
     get:
@@ -16,23 +16,23 @@ title: "Norigin Media Mock API"
         200:
           body:
             application/json:
-              example: !include examples/authenticate.json
+              example: !include examples/demo/authenticate.json
 
-/tag:
+/svod:
   get:
     responses:
       200:
         body:
           application/json:
-            example: !include examples/categories-svod.json
+            example: !include examples/demo/categories-svod.json
 
-  /Slideshow@slideshow:
-    get:
-      responses:
-        200:
-          body:
-            application/json:
-              example: !include examples/slideshow-home.json
+/slides:
+  get:
+    responses:
+      200:
+        body:
+          application/json:
+            example: !include examples/demo/slideshow-home.json
 
 /epg:
   get:
@@ -40,7 +40,7 @@ title: "Norigin Media Mock API"
       200:
         body:
           application/json:
-            example: !include examples/epg.json
+            example: !include examples/demo/epg.json
 
 /channel:
   /{channelId}:
@@ -50,7 +50,7 @@ title: "Norigin Media Mock API"
           200:
             body:
               binary/octet-stream:
-                example: !include examples/channel-stream.example
+                example: !include examples/demo/channel-stream.example
     /program:
       /{programId}:
         get:
@@ -58,7 +58,7 @@ title: "Norigin Media Mock API"
             200:
               body:
                 application/json:
-                  example: !include examples/details-program.json
+                  example: !include examples/demo/details-program.json
 
 /vod:
   /{movieId}:
@@ -67,7 +67,7 @@ title: "Norigin Media Mock API"
         200:
           body:
             application/json:
-              example: !include examples/details-movie.json
+              example: !include examples/demo/details-movie.json
 
     /stream:
       get:
@@ -75,4 +75,4 @@ title: "Norigin Media Mock API"
           200:
             body:
               binary/octet-stream:
-                example: !include examples/movie-stream.example
+                example: !include examples/demo/movie-stream.example
