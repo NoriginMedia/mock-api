@@ -8,8 +8,8 @@
     "schedules": [
       {
         "id": "dummy_program_id",
-        "title": "ARD-buffet",
-        "start": 1482232500001,
+        "title": "ARD-buffet2",
+        "start": 1482232500000,
         "end": 1482235200000
       },
       {
