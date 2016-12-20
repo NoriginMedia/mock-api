@@ -26,3 +26,9 @@ just fetch the real data raw JSON,
 format it with [this](https://jsonformatter.curiousconcept.com/), put into JSON file in `examples`, happy days.
 
 - To update the EPG data to current day, use `npm run update:epg`
+
+# Mock API deployment
+
+- Jenkins job is `dev-mock-deploy`
+
+- Environment is `http://dev-mock.noriginmedia.com/`
