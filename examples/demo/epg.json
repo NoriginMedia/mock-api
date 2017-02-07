@@ -3,7 +3,7 @@
     "id": "sky1",
     "title": "Sky 1",
     "images": {
-      "LOGO": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Sky1_logo.svg/1280px-Sky1_logo.svg.png"
+      "LOGO": "https://img.noriginmedia.com/cloudberry/logo_sky1.png"
     },
     "favorite": true,
     "schedules": [
@@ -213,7 +213,7 @@
     "id": "silver",
     "title": "Silver",
     "images": {
-      "LOGO": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Silver_logo.svg/1280px-Silver_logo.svg.png"
+      "LOGO": "https://img.noriginmedia.com/cloudberry/logo_silver.png"
     },
     "recent": true,
     "schedules": [
@@ -418,7 +418,7 @@
     "id": "hbo",
     "title": "HBO",
     "images": {
-      "LOGO": "http://logo-load.com/uploads/posts/2016-03/1459426323_hbo-family-logo.png"
+      "LOGO": "https://img.noriginmedia.com/cloudberry/logo_hbo.png"
     },
     "schedules": [
       {
@@ -622,7 +622,7 @@
     "id": "cw",
     "title": "The CW",
     "images": {
-      "LOGO": "http://vignette1.wikia.nocookie.net/supergirl1545/images/1/1a/The_CW_logo.png/revision/latest?cb=20160513080447"
+      "LOGO": "https://img.noriginmedia.com/cloudberry/logo_cw.png"
     },
     "schedules": [
       {
@@ -831,7 +831,7 @@
     "id": "vox",
     "title": "Vox",
     "images": {
-      "LOGO": "http://vignette2.wikia.nocookie.net/logopedia/images/6/6e/VOX-Logo_2013.png/revision/latest?cb=20150928151756"
+      "LOGO": "https://img.noriginmedia.com/cloudberry/logo_vox.png"
     },
     "schedules": [
       {
@@ -1035,7 +1035,7 @@
     "id": "history",
     "title": "History",
     "images": {
-      "LOGO": "http://vignette1.wikia.nocookie.net/indianajones/images/e/e3/History_channel_logo.png/revision/latest?cb=20100624030706"
+      "LOGO": "https://img.noriginmedia.com/cloudberry/logo_history.png"
     },
     "schedules": [
       {
@@ -1249,7 +1249,7 @@
     "id": "sixx",
     "title": "Sixx",
     "images": {
-      "LOGO": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sixx.svg/200px-Sixx.svg.png"
+      "LOGO": "https://img.noriginmedia.com/cloudberry/logo_sixx.png"
     },
     "schedules": [
       {
@@ -1448,7 +1448,7 @@
     "id": "tv2norway",
     "title": "TV 2 Norway",
     "images": {
-      "LOGO": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/TV_2_(Norway)_logo.svg/739px-TV_2_(Norway)_logo.svg.png"
+      "LOGO": "https://img.noriginmedia.com/cloudberry/logo_tv2.png"
     },
     "schedules": [
       {
@@ -1642,7 +1642,7 @@
     "id": "channel5",
     "title": "Channel 5",
     "images": {
-      "LOGO": "https://s-media-cache-ak0.pinimg.com/originals/c7/a8/72/c7a872a97e43a6bdf64bbbcc0b93ec04.png"
+      "LOGO": "https://img.noriginmedia.com/cloudberry/logo_channel5.png"
     },
     "schedules": [
       {

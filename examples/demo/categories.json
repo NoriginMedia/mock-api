@@ -6,7 +6,7 @@
         "id": "1",
         "title":"Vikings",
         "images":{
-          "CarouselLandscapeHeader":"http://cdn.collider.com/wp-content/uploads/vikings-katheryn-winnick-8.jpg"
+          "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_vikings.jpg"
         },
         "position": 33,
         "expires": "2d 3h"
@@ -15,7 +15,7 @@
         "id": "2",
         "title":"Supernatural",
         "images":{
-          "CarouselLandscapeHeader":"http://tvseriesfinale.com/wp-content/uploads/2016/07/Supernatural-TV-show-on-The-CW-season-twelve-canceled-or-renewed-590x393.jpg"
+          "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_supernatural.jpg"
         },
         "position": 75,
         "expires": "4d 11h"
@@ -24,7 +24,7 @@
         "id": "3",
         "title":"Downtown Abbey",
         "images":{
-          "CarouselLandscapeHeader":"http://nerdist.com/wp-content/uploads/2015/08/Downton-Abbey-S6-08172015.jpg"
+          "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_downtown_abbey.jpg"
         },
         "position": 12,
         "expires": "6d 1h"
@@ -38,21 +38,21 @@
         "id": "1",
         "title":"Game of Thrones",
         "images":{
-          "CarouselLandscapeHeader":"http://i.telegraph.co.uk/multimedia/archive/02875/thrones_2875160k.jpg"
+          "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_game_of_thrones.jpg"
         }
       },
       {
         "id": "2",
         "title":"Big Bang Theory",
         "images":{
-          "CarouselLandscapeHeader":"http://img2.tvtome.com/i/u/9fc1bb4032ba41bcc1e2b73de04c937f.jpg"
+          "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_big_bang_theory.jpg"
         }
       },
       {
         "id": "3",
         "title":"Doctor Who",
         "images":{
-          "CarouselLandscapeHeader":"http://celebmafia.com/wp-content/uploads/2014/09/jenna-louise-coleman-doctor-who-tv-series-s8-e03-robots-of-sherwood-stills-2014-_4.jpg"
+          "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_doctor_who.jpg"
         }
       }
     ]
@@ -64,21 +64,21 @@
         "id": "1",
         "title":"Doctor Who",
         "images":{
-          "CarouselLandscapeHeader":"http://celebmafia.com/wp-content/uploads/2014/09/jenna-louise-coleman-doctor-who-tv-series-s8-e03-robots-of-sherwood-stills-2014-_4.jpg"
+          "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_doctor_who.jpg"
         }
       },
       {
         "id": "2",
         "title":"Big Bang Theory",
         "images":{
-          "CarouselLandscapeHeader":"http://img2.tvtome.com/i/u/9fc1bb4032ba41bcc1e2b73de04c937f.jpg"
+          "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_big_bang_theory.jpg"
         }
       },
       {
         "id": "3",
         "title":"Game of Thrones",
         "images":{
-          "CarouselLandscapeHeader":"http://i.telegraph.co.uk/multimedia/archive/02875/thrones_2875160k.jpg"
+          "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_game_of_thrones.jpg"
         }
       }
     ]
@@ -90,21 +90,21 @@
         "id": "1",
         "title":"Big Bang Theory",
         "images":{
-          "CarouselLandscapeHeader":"http://img2.tvtome.com/i/u/9fc1bb4032ba41bcc1e2b73de04c937f.jpg"
+          "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_big_bang_theory.jpg"
         }
       },
       {
         "id": "2",
         "title":"Doctor Who",
         "images":{
-          "CarouselLandscapeHeader":"http://celebmafia.com/wp-content/uploads/2014/09/jenna-louise-coleman-doctor-who-tv-series-s8-e03-robots-of-sherwood-stills-2014-_4.jpg"
+          "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_doctor_who.jpg"
         }
       },
       {
         "id": "3",
         "title":"Game of Thrones",
         "images":{
-          "CarouselLandscapeHeader":"http://i.telegraph.co.uk/multimedia/archive/02875/thrones_2875160k.jpg"
+          "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_game_of_thrones.jpg"
         }
       }
     ]
