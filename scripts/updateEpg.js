@@ -5,25 +5,42 @@ var file = "examples/demo/epg.json";
 
 var epgData = jsonfile.readFileSync(file);
 
-var currentDay = moment().format("YYYY-MM-DD");
-var alignToCurrentDay = function(time) {
-  var timeOffset = moment(time).format("HH:mm");
+var currentDay = moment(moment().format("YYYY-MM-DD")).valueOf();
+var nextDay = moment(moment().add(1, "day").format("YYYY-MM-DD")).valueOf();
 
-  return moment(currentDay + " " + timeOffset).valueOf();
+var addRandomInterval = function(time) {
+  return moment(time).add((Math.floor((Math.random() * 4) + 2)) * 10, 'minutes').valueOf();
 };
 
+var programsRotation = [
+  'Supernatural',
+  'Awesome Program',
+  'Game of Thrones',
+  'Cool Stuff',
+  'Vikings',
+  'Interesting Show'
+];
+
 for (var i = 0; i < epgData.length; i++) {
-  var channel = epgData[i];
-  var schedules = channel.schedules;
+  var schedules = [];
 
-  for (var j = 0; j < schedules.length; j++) {
-    var program = schedules[j];
+  var startTime = currentDay;
+  var endTime = addRandomInterval(startTime);
 
-    program.start = alignToCurrentDay(program.start);
-    program.end = alignToCurrentDay(program.end);
+  while(endTime < nextDay) {
+    var program = {};
+    program.title = programsRotation[Math.floor(Math.random() * (programsRotation.length))];
 
-    epgData[i].schedules[j] = program;
+    program.start = startTime;
+    program.end = endTime;
+
+    schedules.push(program);
+
+    startTime = endTime;
+    endTime = addRandomInterval(endTime);
   }
+
+  epgData[i].schedules = schedules;
 }
 
 jsonfile.writeFileSync(file, epgData, {spaces: 2});

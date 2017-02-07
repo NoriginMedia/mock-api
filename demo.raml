@@ -18,13 +18,13 @@ title: "Norigin Media Mock API"
             application/json:
               example: !include examples/demo/authenticate.json
 
-/svod:
+/categories:
   get:
     responses:
       200:
         body:
           application/json:
-            example: !include examples/demo/categories-svod.json
+            example: !include examples/demo/categories.json
 
 /slides:
   get:
@@ -32,7 +32,7 @@ title: "Norigin Media Mock API"
       200:
         body:
           application/json:
-            example: !include examples/demo/slideshow-home.json
+            example: !include examples/demo/slides.json
 
 /epg:
   get:
@@ -58,21 +58,4 @@ title: "Norigin Media Mock API"
             200:
               body:
                 application/json:
-                  example: !include examples/demo/details-program.json
-
-/vod:
-  /{movieId}:
-    get:
-      responses:
-        200:
-          body:
-            application/json:
-              example: !include examples/demo/details-movie.json
-
-    /stream:
-      get:
-        responses:
-          200:
-            body:
-              binary/octet-stream:
-                example: !include examples/demo/movie-stream.example
+                  example: !include examples/demo/program.json

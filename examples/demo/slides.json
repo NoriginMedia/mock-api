@@ -1,0 +1,47 @@
+[
+  {
+    "title":"Downtown Abbey",
+    "images":{
+      "CarouselLandscapeHeader":"http://www.awardsdaily.com/tv/wp-content/uploads/2016/04/downton-1.jpg"
+    },
+    "channelInfo":{
+      "title":"Comedy Central"
+    }
+  },
+  {
+    "title":"Supernatural",
+    "images":{
+      "CarouselLandscapeHeader":"https://secure.static.tumblr.com/cf512e35b808533ada39aa44f6fed6f5/2bmpvio/eHEn2lwgx/tumblr_static_maxresdefault.jpg"
+    },
+    "channelInfo":{
+      "title":"The CW"
+    }
+  },
+  {
+    "title":"Vikings",
+    "images":{
+      "CarouselLandscapeHeader":"http://serijal.com/wp-content/uploads/2015/08/Vikings_S02P12_cast.png"
+    },
+    "channelInfo":{
+      "title":"History"
+    }
+  },
+  {
+    "title":"Big Bang Theory",
+    "images":{
+      "CarouselLandscapeHeader":"http://img.cinemablend.com/quill/4/8/5/c/5/8/485c586b5f6663144561c3b1d219484b3daaeff5.jpg"
+    },
+    "channelInfo":{
+      "title":"CBS"
+    }
+  },
+  {
+    "title":"Game of Thrones",
+    "images":{
+      "CarouselLandscapeHeader":"http://i.lv3.hbo.com/custom-assets/img/free-episodes/game-of-thrones-1349.jpg"
+    },
+    "channelInfo":{
+      "title":"HBO"
+    }
+  }
+]
