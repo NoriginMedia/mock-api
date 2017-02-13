@@ -51,11 +51,12 @@ title: "Norigin Media Mock API"
             body:
               binary/octet-stream:
                 example: !include examples/demo/channel-stream.example
-    /program:
-      /{programId}:
-        get:
-          responses:
-            200:
-              body:
-                application/json:
-                  example: !include examples/demo/program.json
+
+/program:
+  /{programId}:
+    get:
+      responses:
+        200:
+          body:
+            application/json:
+              example: !include examples/demo/program.json
