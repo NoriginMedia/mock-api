@@ -53,6 +53,13 @@ title: "Norigin Media Mock API"
                 example: !include examples/demo/channel-stream.example
 
 /program:
+  /another_program_id:
+    get:
+      responses:
+        200:
+          body:
+            application/json:
+              example: !include examples/demo/program_alt.json
   /{programId}:
     get:
       responses:
