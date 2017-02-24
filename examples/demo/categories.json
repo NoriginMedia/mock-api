@@ -1,112 +1,114 @@
-[
-  {
-    "title":"Continue Watching",
-    "items":[
-      {
-        "id": "1",
-        "title":"Vikings",
-        "images":{
-          "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_vikings.jpg"
+{
+  "categories": [
+    {
+      "title":"Continue Watching",
+      "items":[
+        {
+          "id": "1",
+          "title":"Vikings",
+          "images":{
+            "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_vikings.jpg"
+          },
+          "position": 33,
+          "expires": "2d 3h"
         },
-        "position": 33,
-        "expires": "2d 3h"
-      },
-      {
-        "id": "2",
-        "title":"Supernatural",
-        "images":{
-          "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_supernatural.jpg"
+        {
+          "id": "2",
+          "title":"Supernatural",
+          "images":{
+            "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_supernatural.jpg"
+          },
+          "position": 75,
+          "expires": "4d 11h"
         },
-        "position": 75,
-        "expires": "4d 11h"
-      },
-      {
-        "id": "3",
-        "title":"Downtown Abbey",
-        "images":{
-          "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_downtown_abbey.jpg"
+        {
+          "id": "3",
+          "title":"Downtown Abbey",
+          "images":{
+            "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_downtown_abbey.jpg"
+          },
+          "position": 12,
+          "expires": "6d 1h"
+        }
+      ]
+    },
+    {
+      "title":"Horror",
+      "items":[
+        {
+          "id": "1",
+          "title":"Game of Thrones",
+          "images":{
+            "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_game_of_thrones.jpg"
+          }
         },
-        "position": 12,
-        "expires": "6d 1h"
-      }
-    ]
-  },
-  {
-    "title":"Horror",
-    "items":[
-      {
-        "id": "1",
-        "title":"Game of Thrones",
-        "images":{
-          "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_game_of_thrones.jpg"
+        {
+          "id": "2",
+          "title":"Big Bang Theory",
+          "images":{
+            "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_big_bang_theory.jpg"
+          }
+        },
+        {
+          "id": "3",
+          "title":"Doctor Who",
+          "images":{
+            "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_doctor_Who.jpg"
+          }
         }
-      },
-      {
-        "id": "2",
-        "title":"Big Bang Theory",
-        "images":{
-          "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_big_bang_theory.jpg"
+      ]
+    },
+    {
+      "title":"Comedy",
+      "items":[
+        {
+          "id": "1",
+          "title":"Doctor Who",
+          "images":{
+            "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_doctor_Who.jpg"
+          }
+        },
+        {
+          "id": "2",
+          "title":"Big Bang Theory",
+          "images":{
+            "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_big_bang_theory.jpg"
+          }
+        },
+        {
+          "id": "3",
+          "title":"Game of Thrones",
+          "images":{
+            "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_game_of_thrones.jpg"
+          }
         }
-      },
-      {
-        "id": "3",
-        "title":"Doctor Who",
-        "images":{
-          "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_doctor_Who.jpg"
+      ]
+    },
+    {
+      "title":"Drama",
+      "items":[
+        {
+          "id": "1",
+          "title":"Big Bang Theory",
+          "images":{
+            "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_big_bang_theory.jpg"
+          }
+        },
+        {
+          "id": "2",
+          "title":"Doctor Who",
+          "images":{
+            "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_doctor_Who.jpg"
+          }
+        },
+        {
+          "id": "3",
+          "title":"Game of Thrones",
+          "images":{
+            "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_game_of_thrones.jpg"
+          }
         }
-      }
-    ]
-  },
-  {
-    "title":"Comedy",
-    "items":[
-      {
-        "id": "1",
-        "title":"Doctor Who",
-        "images":{
-          "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_doctor_Who.jpg"
-        }
-      },
-      {
-        "id": "2",
-        "title":"Big Bang Theory",
-        "images":{
-          "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_big_bang_theory.jpg"
-        }
-      },
-      {
-        "id": "3",
-        "title":"Game of Thrones",
-        "images":{
-          "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_game_of_thrones.jpg"
-        }
-      }
-    ]
-  },
-  {
-    "title":"Drama",
-    "items":[
-      {
-        "id": "1",
-        "title":"Big Bang Theory",
-        "images":{
-          "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_big_bang_theory.jpg"
-        }
-      },
-      {
-        "id": "2",
-        "title":"Doctor Who",
-        "images":{
-          "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_doctor_Who.jpg"
-        }
-      },
-      {
-        "id": "3",
-        "title":"Game of Thrones",
-        "images":{
-          "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_game_of_thrones.jpg"
-        }
-      }
-    ]
-  }
-]
+      ]
+    }
+  ]
+}

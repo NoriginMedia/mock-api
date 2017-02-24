@@ -4,6 +4,7 @@ var moment = require("moment");
 var file = "examples/demo/epg.json";
 
 var epgData = jsonfile.readFileSync(file);
+var channels = epgData.channels;
 
 var currentDay = moment(moment().format("YYYY-MM-DD")).valueOf();
 var nextDay = moment(moment().add(1, "day").format("YYYY-MM-DD")).valueOf();
@@ -21,7 +22,7 @@ var programsRotation = [
   'Interesting Show'
 ];
 
-for (var i = 0; i < epgData.length; i++) {
+for (var i = 0; i < channels.length; i++) {
   var schedules = [];
 
   var startTime = currentDay;
@@ -41,7 +42,8 @@ for (var i = 0; i < epgData.length; i++) {
     endTime = addRandomInterval(endTime);
   }
 
-  epgData[i].schedules = schedules;
+  channels[i].schedules = schedules;
 }
 
+epgData.channels = channels;
 jsonfile.writeFileSync(file, epgData, {spaces: 2});

@@ -1,60 +1,62 @@
-[
-  {
-    "id": "dummy_program_id",
-    "title":"Downtown Abbey",
-    "images":{
-      "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/slide_downtown_abbey.jpg"
+{
+  "slides": [
+    {
+      "id": "dummy_program_id",
+      "title":"Downtown Abbey",
+      "images":{
+        "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/slide_downtown_abbey.jpg"
+      },
+      "channelInfo":{
+        "id": "cw",
+        "title":"Comedy Central"
+      }
     },
-    "channelInfo":{
-      "id": "cw",
-      "title":"Comedy Central"
-    }
-  },
-  {
-    "id": "dummy_program_id",
-    "title":"Supernatural",
-    "isLive": true,
-    "images":{
-      "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/slide_supernatural.jpg"
+    {
+      "id": "dummy_program_id",
+      "title":"Supernatural",
+      "isLive": true,
+      "images":{
+        "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/slide_supernatural.jpg"
+      },
+      "channelInfo":{
+        "id": "cw",
+        "title":"The CW"
+      }
     },
-    "channelInfo":{
-      "id": "cw",
-      "title":"The CW"
-    }
-  },
-  {
-    "id": "dummy_program_id",
-    "title":"Vikings",
-    "isLive": true,
-    "images":{
-      "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/slide_vikings.jpg"
+    {
+      "id": "dummy_program_id",
+      "title":"Vikings",
+      "isLive": true,
+      "images":{
+        "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/slide_vikings.jpg"
+      },
+      "channelInfo":{
+        "id": "history",
+        "title":"History"
+      }
     },
-    "channelInfo":{
-      "id": "history",
-      "title":"History"
-    }
-  },
-  {
-    "id": "dummy_program_id",
-    "title":"Big Bang Theory",
-    "images":{
-      "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/slide_big_bang_theory.jpg"
+    {
+      "id": "dummy_program_id",
+      "title":"Big Bang Theory",
+      "images":{
+        "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/slide_big_bang_theory.jpg"
+      },
+      "channelInfo":{
+        "id": "cw",
+        "title":"CBS"
+      }
     },
-    "channelInfo":{
-      "id": "cw",
-      "title":"CBS"
+    {
+      "id": "dummy_program_id",
+      "title":"Game of Thrones",
+      "isLive": true,
+      "images":{
+        "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/slide_game_of_thrones.jpg"
+      },
+      "channelInfo":{
+        "id": "hbo",
+        "title":"HBO"
+      }
     }
-  },
-  {
-    "id": "dummy_program_id",
-    "title":"Game of Thrones",
-    "isLive": true,
-    "images":{
-      "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/slide_game_of_thrones.jpg"
-    },
-    "channelInfo":{
-      "id": "hbo",
-      "title":"HBO"
-    }
-  }
-]
+  ]
+}

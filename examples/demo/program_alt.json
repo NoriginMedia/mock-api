@@ -1,108 +1,110 @@
 {
-  "id": "another_program_id",
-  "title":"Vikings",
-  "images":{
-    "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_vikings.jpg"
-  },
-  "channelInfo":{
-    "title":"History"
-  },
-  "meta": {
-    "year": "2013",
-    "genres": [
-      "Historical",
-      "Drama",
-      "Action",
-      "Adventures"
-    ],
-    "cast": [
-      "Travis Fimmel",
-      "Katheryn Winnick",
-      "Clive Standen",
-      "Gustaf Skarsgård"
-    ],
-    "creators": [
-      "Michael Hirst",
-      "John Bartley",
-      "James Flynn"
-    ]
-  },
-  "series": [
-    {
-      "title": "Season 1",
-      "episodes": [
-        {
-          "id": "dummy_program_id",
-          "title": "Rites of Passage"
-        },
-        {
-          "id": "dummy_program_id",
-          "title": "Wrath of the Northmen"
-        },
-        {
-          "id": "dummy_program_id",
-          "title": "Dispossessed"
-        },
-        {
-          "id": "dummy_program_id",
-          "title": "Trial"
-        },
-        {
-          "id": "dummy_program_id",
-          "title": "Raid"
-        }
+  "program": {
+    "id": "another_program_id",
+    "title":"Vikings",
+    "images":{
+      "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/categories_vikings.jpg"
+    },
+    "channelInfo":{
+      "title":"History"
+    },
+    "meta": {
+      "year": "2013",
+      "genres": [
+        "Historical",
+        "Drama",
+        "Action",
+        "Adventures"
+      ],
+      "cast": [
+        "Travis Fimmel",
+        "Katheryn Winnick",
+        "Clive Standen",
+        "Gustaf Skarsgård"
+      ],
+      "creators": [
+        "Michael Hirst",
+        "John Bartley",
+        "James Flynn"
       ]
     },
-    {
-      "title": "Season 2",
-      "episodes": [
-        {
-          "id": "dummy_program_id",
-          "title": "Brother's War"
-        },
-        {
-          "id": "dummy_program_id",
-          "title": "Invasion"
-        },
-        {
-          "id": "dummy_program_id",
-          "title": "Treachery"
-        },
-        {
-          "id": "dummy_program_id",
-          "title": "Eye for an Eye"
-        },
-        {
-          "id": "dummy_program_id",
-          "title": "Answers in Blood"
-        }
-      ]
-    },
-    {
-      "title": "Season 3",
-      "episodes": [
-        {
-          "id": "dummy_program_id",
-          "title": "Mercenary"
-        },
-        {
-          "id": "dummy_program_id",
-          "title": "The Wanderer"
-        },
-        {
-          "id": "dummy_program_id",
-          "title": "Warrior's Fate"
-        },
-        {
-          "id": "dummy_program_id",
-          "title": "Scarred"
-        },
-        {
-          "id": "dummy_program_id",
-          "title": "The Usurper"
-        }
-      ]
-    }
-  ],
-  "description": "Vikings is inspired by the sagas of Viking Ragnar Lothbrok, one of the best-known legendary Norse heroes and notorious as the scourge of England and France. The show portrays Ragnar as a farmer who rises to fame by successful raids into England, and eventually becomes a Scandinavian king, with the support of his family and fellow warriors: his brother Rollo, his son Björn Ironside, and his wives — the shieldmaiden Lagertha and the princess Aslaug."
+    "series": [
+      {
+        "title": "Season 1",
+        "episodes": [
+          {
+            "id": "dummy_program_id",
+            "title": "Rites of Passage"
+          },
+          {
+            "id": "dummy_program_id",
+            "title": "Wrath of the Northmen"
+          },
+          {
+            "id": "dummy_program_id",
+            "title": "Dispossessed"
+          },
+          {
+            "id": "dummy_program_id",
+            "title": "Trial"
+          },
+          {
+            "id": "dummy_program_id",
+            "title": "Raid"
+          }
+        ]
+      },
+      {
+        "title": "Season 2",
+        "episodes": [
+          {
+            "id": "dummy_program_id",
+            "title": "Brother's War"
+          },
+          {
+            "id": "dummy_program_id",
+            "title": "Invasion"
+          },
+          {
+            "id": "dummy_program_id",
+            "title": "Treachery"
+          },
+          {
+            "id": "dummy_program_id",
+            "title": "Eye for an Eye"
+          },
+          {
+            "id": "dummy_program_id",
+            "title": "Answers in Blood"
+          }
+        ]
+      },
+      {
+        "title": "Season 3",
+        "episodes": [
+          {
+            "id": "dummy_program_id",
+            "title": "Mercenary"
+          },
+          {
+            "id": "dummy_program_id",
+            "title": "The Wanderer"
+          },
+          {
+            "id": "dummy_program_id",
+            "title": "Warrior's Fate"
+          },
+          {
+            "id": "dummy_program_id",
+            "title": "Scarred"
+          },
+          {
+            "id": "dummy_program_id",
+            "title": "The Usurper"
+          }
+        ]
+      }
+    ],
+    "description": "Vikings is inspired by the sagas of Viking Ragnar Lothbrok, one of the best-known legendary Norse heroes and notorious as the scourge of England and France. The show portrays Ragnar as a farmer who rises to fame by successful raids into England, and eventually becomes a Scandinavian king, with the support of his family and fellow warriors: his brother Rollo, his son Björn Ironside, and his wives — the shieldmaiden Lagertha and the princess Aslaug."
+  }
 }
