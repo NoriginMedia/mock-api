@@ -7,244 +7,268 @@
     },
     "schedules": [
       {
-        "title": "Supernatural",
+        "title": "Game of Thrones",
         "id": "dummy_program_id",
-        "start": 1487718000000,
-        "end": 1487719800000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487719800000,
-        "end": 1487722800000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487722800000,
-        "end": 1487725200000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487725200000,
-        "end": 1487727600000
+        "start": "2017-02-24T00:00:00+01:00",
+        "end": "2017-02-24T00:20:00+01:00"
       },
       {
         "title": "Game of Thrones",
         "id": "dummy_program_id",
-        "start": 1487727600000,
-        "end": 1487730000000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487730000000,
-        "end": 1487731800000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487731800000,
-        "end": 1487734200000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487734200000,
-        "end": 1487737200000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487737200000,
-        "end": 1487739000000
+        "start": "2017-02-24T00:20:00+01:00",
+        "end": "2017-02-24T00:40:00+01:00"
       },
       {
         "title": "Cool Stuff",
         "id": "dummy_program_id",
-        "start": 1487739000000,
-        "end": 1487741400000
+        "start": "2017-02-24T00:40:00+01:00",
+        "end": "2017-02-24T01:10:00+01:00"
       },
       {
-        "title": "Cool Stuff",
+        "title": "Game of Thrones",
         "id": "dummy_program_id",
-        "start": 1487741400000,
-        "end": 1487743200000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487743200000,
-        "end": 1487744400000
+        "start": "2017-02-24T01:10:00+01:00",
+        "end": "2017-02-24T01:30:00+01:00"
       },
       {
         "title": "Vikings",
         "id": "dummy_program_id",
-        "start": 1487744400000,
-        "end": 1487747400000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487747400000,
-        "end": 1487750400000
-      },
-      {
-        "title": "Vikings",
-        "id": "dummy_program_id",
-        "start": 1487750400000,
-        "end": 1487751600000
-      },
-      {
-        "title": "Vikings",
-        "id": "dummy_program_id",
-        "start": 1487751600000,
-        "end": 1487753400000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487753400000,
-        "end": 1487755200000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487755200000,
-        "end": 1487756400000
+        "start": "2017-02-24T01:30:00+01:00",
+        "end": "2017-02-24T02:00:00+01:00"
       },
       {
         "title": "Supernatural",
         "id": "dummy_program_id",
-        "start": 1487756400000,
-        "end": 1487759400000
+        "start": "2017-02-24T02:00:00+01:00",
+        "end": "2017-02-24T02:40:00+01:00"
       },
       {
-        "title": "Game of Thrones",
+        "title": "Cool Stuff",
         "id": "dummy_program_id",
-        "start": 1487759400000,
-        "end": 1487760600000
-      },
-      {
-        "title": "Vikings",
-        "id": "dummy_program_id",
-        "start": 1487760600000,
-        "end": 1487762400000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487762400000,
-        "end": 1487765400000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487765400000,
-        "end": 1487767800000
+        "start": "2017-02-24T02:40:00+01:00",
+        "end": "2017-02-24T03:10:00+01:00"
       },
       {
         "title": "Supernatural",
         "id": "dummy_program_id",
-        "start": 1487767800000,
-        "end": 1487769600000
+        "start": "2017-02-24T03:10:00+01:00",
+        "end": "2017-02-24T03:30:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T03:30:00+01:00",
+        "end": "2017-02-24T04:00:00+01:00"
       },
       {
         "title": "Vikings",
         "id": "dummy_program_id",
-        "start": 1487769600000,
-        "end": 1487770800000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487770800000,
-        "end": 1487772000000
+        "start": "2017-02-24T04:00:00+01:00",
+        "end": "2017-02-24T04:20:00+01:00"
       },
       {
         "title": "Awesome Program",
         "id": "dummy_program_id",
-        "start": 1487772000000,
-        "end": 1487773200000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487773200000,
-        "end": 1487775600000
+        "start": "2017-02-24T04:20:00+01:00",
+        "end": "2017-02-24T04:50:00+01:00"
       },
       {
         "title": "Vikings",
         "id": "dummy_program_id",
-        "start": 1487775600000,
-        "end": 1487778600000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487778600000,
-        "end": 1487780400000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487780400000,
-        "end": 1487781600000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487781600000,
-        "end": 1487784600000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487784600000,
-        "end": 1487786400000
+        "start": "2017-02-24T04:50:00+01:00",
+        "end": "2017-02-24T05:20:00+01:00"
       },
       {
         "title": "Supernatural",
         "id": "dummy_program_id",
-        "start": 1487786400000,
-        "end": 1487787600000
+        "start": "2017-02-24T05:20:00+01:00",
+        "end": "2017-02-24T06:10:00+01:00"
       },
       {
         "title": "Game of Thrones",
         "id": "dummy_program_id",
-        "start": 1487787600000,
-        "end": 1487788800000
-      },
-      {
-        "title": "Vikings",
-        "id": "dummy_program_id",
-        "start": 1487788800000,
-        "end": 1487791800000
+        "start": "2017-02-24T06:10:00+01:00",
+        "end": "2017-02-24T06:50:00+01:00"
       },
       {
         "title": "Game of Thrones",
         "id": "dummy_program_id",
-        "start": 1487791800000,
-        "end": 1487793000000
+        "start": "2017-02-24T06:50:00+01:00",
+        "end": "2017-02-24T07:10:00+01:00"
       },
       {
         "title": "Awesome Program",
         "id": "dummy_program_id",
-        "start": 1487793000000,
-        "end": 1487796000000
+        "start": "2017-02-24T07:10:00+01:00",
+        "end": "2017-02-24T08:00:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T08:00:00+01:00",
+        "end": "2017-02-24T08:20:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T08:20:00+01:00",
+        "end": "2017-02-24T08:50:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T08:50:00+01:00",
+        "end": "2017-02-24T09:20:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T09:20:00+01:00",
+        "end": "2017-02-24T10:00:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T10:00:00+01:00",
+        "end": "2017-02-24T10:40:00+01:00"
       },
       {
         "title": "Cool Stuff",
         "id": "dummy_program_id",
-        "start": 1487796000000,
-        "end": 1487799000000
+        "start": "2017-02-24T10:40:00+01:00",
+        "end": "2017-02-24T11:00:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T11:00:00+01:00",
+        "end": "2017-02-24T11:40:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T11:40:00+01:00",
+        "end": "2017-02-24T12:20:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T12:20:00+01:00",
+        "end": "2017-02-24T12:50:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T12:50:00+01:00",
+        "end": "2017-02-24T13:40:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T13:40:00+01:00",
+        "end": "2017-02-24T14:00:00+01:00"
+      },
+      {
+        "title": "Interesting Show",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T14:00:00+01:00",
+        "end": "2017-02-24T14:30:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T14:30:00+01:00",
+        "end": "2017-02-24T15:00:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T15:00:00+01:00",
+        "end": "2017-02-24T15:30:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T15:30:00+01:00",
+        "end": "2017-02-24T16:00:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T16:00:00+01:00",
+        "end": "2017-02-24T16:50:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T16:50:00+01:00",
+        "end": "2017-02-24T17:10:00+01:00"
+      },
+      {
+        "title": "Interesting Show",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T17:10:00+01:00",
+        "end": "2017-02-24T18:00:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T18:00:00+01:00",
+        "end": "2017-02-24T18:40:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T18:40:00+01:00",
+        "end": "2017-02-24T19:20:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T19:20:00+01:00",
+        "end": "2017-02-24T20:10:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T20:10:00+01:00",
+        "end": "2017-02-24T20:30:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T20:30:00+01:00",
+        "end": "2017-02-24T21:20:00+01:00"
       },
       {
         "title": "Game of Thrones",
         "id": "dummy_program_id",
-        "start": 1487799000000,
-        "end": 1487801400000
+        "start": "2017-02-24T21:20:00+01:00",
+        "end": "2017-02-24T21:40:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T21:40:00+01:00",
+        "end": "2017-02-24T22:00:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T22:00:00+01:00",
+        "end": "2017-02-24T22:20:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T22:20:00+01:00",
+        "end": "2017-02-24T22:50:00+01:00"
+      },
+      {
+        "title": "Interesting Show",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T22:50:00+01:00",
+        "end": "2017-02-24T23:40:00+01:00"
       }
     ]
   },
@@ -256,262 +280,250 @@
     },
     "schedules": [
       {
-        "title": "Supernatural",
+        "title": "Game of Thrones",
         "id": "dummy_program_id",
-        "start": 1487718000000,
-        "end": 1487719800000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487719800000,
-        "end": 1487721000000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487721000000,
-        "end": 1487724000000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487724000000,
-        "end": 1487725800000
+        "start": "2017-02-24T00:00:00+01:00",
+        "end": "2017-02-24T00:20:00+01:00"
       },
       {
         "title": "Interesting Show",
         "id": "dummy_program_id",
-        "start": 1487725800000,
-        "end": 1487727000000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487727000000,
-        "end": 1487728800000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487728800000,
-        "end": 1487731800000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487731800000,
-        "end": 1487733600000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487733600000,
-        "end": 1487734800000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487734800000,
-        "end": 1487737800000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487737800000,
-        "end": 1487740200000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487740200000,
-        "end": 1487742600000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487742600000,
-        "end": 1487744400000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487744400000,
-        "end": 1487745600000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487745600000,
-        "end": 1487747400000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487747400000,
-        "end": 1487748600000
-      },
-      {
-        "title": "Vikings",
-        "id": "dummy_program_id",
-        "start": 1487748600000,
-        "end": 1487751600000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487751600000,
-        "end": 1487754000000
+        "start": "2017-02-24T00:20:00+01:00",
+        "end": "2017-02-24T00:50:00+01:00"
       },
       {
         "title": "Game of Thrones",
         "id": "dummy_program_id",
-        "start": 1487754000000,
-        "end": 1487755200000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487755200000,
-        "end": 1487757000000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487757000000,
-        "end": 1487758200000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487758200000,
-        "end": 1487760000000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487760000000,
-        "end": 1487761200000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487761200000,
-        "end": 1487762400000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487762400000,
-        "end": 1487765400000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487765400000,
-        "end": 1487767800000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487767800000,
-        "end": 1487770200000
+        "start": "2017-02-24T00:50:00+01:00",
+        "end": "2017-02-24T01:30:00+01:00"
       },
       {
         "title": "Vikings",
         "id": "dummy_program_id",
-        "start": 1487770200000,
-        "end": 1487771400000
+        "start": "2017-02-24T01:30:00+01:00",
+        "end": "2017-02-24T02:00:00+01:00"
       },
       {
-        "title": "Cool Stuff",
+        "title": "Awesome Program",
         "id": "dummy_program_id",
-        "start": 1487771400000,
-        "end": 1487774400000
-      },
-      {
-        "title": "Vikings",
-        "id": "dummy_program_id",
-        "start": 1487774400000,
-        "end": 1487777400000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487777400000,
-        "end": 1487780400000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487780400000,
-        "end": 1487782200000
+        "start": "2017-02-24T02:00:00+01:00",
+        "end": "2017-02-24T02:40:00+01:00"
       },
       {
         "title": "Interesting Show",
         "id": "dummy_program_id",
-        "start": 1487782200000,
-        "end": 1487783400000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487783400000,
-        "end": 1487785200000
+        "start": "2017-02-24T02:40:00+01:00",
+        "end": "2017-02-24T03:00:00+01:00"
       },
       {
         "title": "Awesome Program",
         "id": "dummy_program_id",
-        "start": 1487785200000,
-        "end": 1487786400000
+        "start": "2017-02-24T03:00:00+01:00",
+        "end": "2017-02-24T03:50:00+01:00"
       },
       {
-        "title": "Cool Stuff",
+        "title": "Interesting Show",
         "id": "dummy_program_id",
-        "start": 1487786400000,
-        "end": 1487788200000
+        "start": "2017-02-24T03:50:00+01:00",
+        "end": "2017-02-24T04:20:00+01:00"
       },
       {
-        "title": "Cool Stuff",
+        "title": "Game of Thrones",
         "id": "dummy_program_id",
-        "start": 1487788200000,
-        "end": 1487790000000
+        "start": "2017-02-24T04:20:00+01:00",
+        "end": "2017-02-24T04:50:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T04:50:00+01:00",
+        "end": "2017-02-24T05:10:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T05:10:00+01:00",
+        "end": "2017-02-24T05:30:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T05:30:00+01:00",
+        "end": "2017-02-24T06:10:00+01:00"
       },
       {
         "title": "Supernatural",
         "id": "dummy_program_id",
-        "start": 1487790000000,
-        "end": 1487793000000
+        "start": "2017-02-24T06:10:00+01:00",
+        "end": "2017-02-24T06:40:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T06:40:00+01:00",
+        "end": "2017-02-24T07:20:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T07:20:00+01:00",
+        "end": "2017-02-24T07:40:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T07:40:00+01:00",
+        "end": "2017-02-24T08:20:00+01:00"
       },
       {
         "title": "Supernatural",
         "id": "dummy_program_id",
-        "start": 1487793000000,
-        "end": 1487794200000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487794200000,
-        "end": 1487797200000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487797200000,
-        "end": 1487798400000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487798400000,
-        "end": 1487800800000
+        "start": "2017-02-24T08:20:00+01:00",
+        "end": "2017-02-24T09:00:00+01:00"
       },
       {
         "title": "Vikings",
         "id": "dummy_program_id",
-        "start": 1487800800000,
-        "end": 1487802000000
+        "start": "2017-02-24T09:00:00+01:00",
+        "end": "2017-02-24T09:50:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T09:50:00+01:00",
+        "end": "2017-02-24T10:40:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T10:40:00+01:00",
+        "end": "2017-02-24T11:20:00+01:00"
+      },
+      {
+        "title": "Interesting Show",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T11:20:00+01:00",
+        "end": "2017-02-24T12:00:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T12:00:00+01:00",
+        "end": "2017-02-24T12:40:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T12:40:00+01:00",
+        "end": "2017-02-24T13:20:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T13:20:00+01:00",
+        "end": "2017-02-24T14:10:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T14:10:00+01:00",
+        "end": "2017-02-24T14:40:00+01:00"
+      },
+      {
+        "title": "Interesting Show",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T14:40:00+01:00",
+        "end": "2017-02-24T15:00:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T15:00:00+01:00",
+        "end": "2017-02-24T15:50:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T15:50:00+01:00",
+        "end": "2017-02-24T16:20:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T16:20:00+01:00",
+        "end": "2017-02-24T17:10:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T17:10:00+01:00",
+        "end": "2017-02-24T17:40:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T17:40:00+01:00",
+        "end": "2017-02-24T18:00:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T18:00:00+01:00",
+        "end": "2017-02-24T18:30:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T18:30:00+01:00",
+        "end": "2017-02-24T19:00:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T19:00:00+01:00",
+        "end": "2017-02-24T19:30:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T19:30:00+01:00",
+        "end": "2017-02-24T20:00:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T20:00:00+01:00",
+        "end": "2017-02-24T20:20:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T20:20:00+01:00",
+        "end": "2017-02-24T21:00:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T21:00:00+01:00",
+        "end": "2017-02-24T21:50:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T21:50:00+01:00",
+        "end": "2017-02-24T22:30:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T22:30:00+01:00",
+        "end": "2017-02-24T23:20:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T23:20:00+01:00",
+        "end": "2017-02-24T23:40:00+01:00"
       }
     ]
   },
@@ -525,254 +537,248 @@
       {
         "title": "Supernatural",
         "id": "dummy_program_id",
-        "start": 1487718000000,
-        "end": 1487721000000
+        "start": "2017-02-24T00:00:00+01:00",
+        "end": "2017-02-24T00:40:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T00:40:00+01:00",
+        "end": "2017-02-24T01:10:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T01:10:00+01:00",
+        "end": "2017-02-24T02:00:00+01:00"
       },
       {
         "title": "Awesome Program",
         "id": "dummy_program_id",
-        "start": 1487721000000,
-        "end": 1487723400000
+        "start": "2017-02-24T02:00:00+01:00",
+        "end": "2017-02-24T02:30:00+01:00"
       },
       {
-        "title": "Interesting Show",
+        "title": "Supernatural",
         "id": "dummy_program_id",
-        "start": 1487723400000,
-        "end": 1487724600000
+        "start": "2017-02-24T02:30:00+01:00",
+        "end": "2017-02-24T03:00:00+01:00"
       },
       {
         "title": "Awesome Program",
         "id": "dummy_program_id",
-        "start": 1487724600000,
-        "end": 1487727000000
+        "start": "2017-02-24T03:00:00+01:00",
+        "end": "2017-02-24T03:30:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T03:30:00+01:00",
+        "end": "2017-02-24T04:00:00+01:00"
       },
       {
         "title": "Game of Thrones",
         "id": "dummy_program_id",
-        "start": 1487727000000,
-        "end": 1487728800000
+        "start": "2017-02-24T04:00:00+01:00",
+        "end": "2017-02-24T04:20:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T04:20:00+01:00",
+        "end": "2017-02-24T05:00:00+01:00"
       },
       {
         "title": "Interesting Show",
         "id": "dummy_program_id",
-        "start": 1487728800000,
-        "end": 1487730000000
+        "start": "2017-02-24T05:00:00+01:00",
+        "end": "2017-02-24T05:40:00+01:00"
       },
       {
         "title": "Awesome Program",
         "id": "dummy_program_id",
-        "start": 1487730000000,
-        "end": 1487732400000
-      },
-      {
-        "title": "Vikings",
-        "id": "dummy_program_id",
-        "start": 1487732400000,
-        "end": 1487733600000
-      },
-      {
-        "title": "Vikings",
-        "id": "dummy_program_id",
-        "start": 1487733600000,
-        "end": 1487736600000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487736600000,
-        "end": 1487739600000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487739600000,
-        "end": 1487741400000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487741400000,
-        "end": 1487743200000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487743200000,
-        "end": 1487745000000
+        "start": "2017-02-24T05:40:00+01:00",
+        "end": "2017-02-24T06:20:00+01:00"
       },
       {
         "title": "Supernatural",
         "id": "dummy_program_id",
-        "start": 1487745000000,
-        "end": 1487746200000
+        "start": "2017-02-24T06:20:00+01:00",
+        "end": "2017-02-24T06:50:00+01:00"
       },
       {
         "title": "Vikings",
         "id": "dummy_program_id",
-        "start": 1487746200000,
-        "end": 1487748000000
+        "start": "2017-02-24T06:50:00+01:00",
+        "end": "2017-02-24T07:20:00+01:00"
       },
       {
-        "title": "Vikings",
+        "title": "Supernatural",
         "id": "dummy_program_id",
-        "start": 1487748000000,
-        "end": 1487751000000
+        "start": "2017-02-24T07:20:00+01:00",
+        "end": "2017-02-24T07:50:00+01:00"
       },
       {
         "title": "Interesting Show",
         "id": "dummy_program_id",
-        "start": 1487751000000,
-        "end": 1487754000000
+        "start": "2017-02-24T07:50:00+01:00",
+        "end": "2017-02-24T08:10:00+01:00"
       },
       {
-        "title": "Game of Thrones",
+        "title": "Supernatural",
         "id": "dummy_program_id",
-        "start": 1487754000000,
-        "end": 1487755200000
+        "start": "2017-02-24T08:10:00+01:00",
+        "end": "2017-02-24T09:00:00+01:00"
       },
       {
         "title": "Cool Stuff",
         "id": "dummy_program_id",
-        "start": 1487755200000,
-        "end": 1487756400000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487756400000,
-        "end": 1487757600000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487757600000,
-        "end": 1487758800000
+        "start": "2017-02-24T09:00:00+01:00",
+        "end": "2017-02-24T09:50:00+01:00"
       },
       {
         "title": "Supernatural",
         "id": "dummy_program_id",
-        "start": 1487758800000,
-        "end": 1487761200000
+        "start": "2017-02-24T09:50:00+01:00",
+        "end": "2017-02-24T10:20:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T10:20:00+01:00",
+        "end": "2017-02-24T10:40:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T10:40:00+01:00",
+        "end": "2017-02-24T11:30:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T11:30:00+01:00",
+        "end": "2017-02-24T11:50:00+01:00"
+      },
+      {
+        "title": "Interesting Show",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T11:50:00+01:00",
+        "end": "2017-02-24T12:40:00+01:00"
       },
       {
         "title": "Vikings",
         "id": "dummy_program_id",
-        "start": 1487761200000,
-        "end": 1487764200000
+        "start": "2017-02-24T12:40:00+01:00",
+        "end": "2017-02-24T13:00:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T13:00:00+01:00",
+        "end": "2017-02-24T13:30:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T13:30:00+01:00",
+        "end": "2017-02-24T14:20:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T14:20:00+01:00",
+        "end": "2017-02-24T14:40:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T14:40:00+01:00",
+        "end": "2017-02-24T15:30:00+01:00"
       },
       {
         "title": "Vikings",
         "id": "dummy_program_id",
-        "start": 1487764200000,
-        "end": 1487766600000
+        "start": "2017-02-24T15:30:00+01:00",
+        "end": "2017-02-24T15:50:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T15:50:00+01:00",
+        "end": "2017-02-24T16:30:00+01:00"
       },
       {
         "title": "Cool Stuff",
         "id": "dummy_program_id",
-        "start": 1487766600000,
-        "end": 1487769000000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487769000000,
-        "end": 1487771400000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487771400000,
-        "end": 1487773800000
-      },
-      {
-        "title": "Vikings",
-        "id": "dummy_program_id",
-        "start": 1487773800000,
-        "end": 1487776200000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487776200000,
-        "end": 1487777400000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487777400000,
-        "end": 1487780400000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487780400000,
-        "end": 1487781600000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487781600000,
-        "end": 1487783400000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487783400000,
-        "end": 1487786400000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487786400000,
-        "end": 1487788200000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487788200000,
-        "end": 1487789400000
+        "start": "2017-02-24T16:30:00+01:00",
+        "end": "2017-02-24T17:10:00+01:00"
       },
       {
         "title": "Cool Stuff",
         "id": "dummy_program_id",
-        "start": 1487789400000,
-        "end": 1487790600000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487790600000,
-        "end": 1487793600000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487793600000,
-        "end": 1487796000000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487796000000,
-        "end": 1487797200000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487797200000,
-        "end": 1487800200000
+        "start": "2017-02-24T17:10:00+01:00",
+        "end": "2017-02-24T18:00:00+01:00"
       },
       {
         "title": "Interesting Show",
         "id": "dummy_program_id",
-        "start": 1487800200000,
-        "end": 1487801400000
+        "start": "2017-02-24T18:00:00+01:00",
+        "end": "2017-02-24T18:30:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T18:30:00+01:00",
+        "end": "2017-02-24T18:50:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T18:50:00+01:00",
+        "end": "2017-02-24T19:20:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T19:20:00+01:00",
+        "end": "2017-02-24T20:00:00+01:00"
       },
       {
         "title": "Supernatural",
         "id": "dummy_program_id",
-        "start": 1487801400000,
-        "end": 1487803800000
+        "start": "2017-02-24T20:00:00+01:00",
+        "end": "2017-02-24T20:20:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T20:20:00+01:00",
+        "end": "2017-02-24T20:50:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T20:50:00+01:00",
+        "end": "2017-02-24T21:10:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T21:10:00+01:00",
+        "end": "2017-02-24T22:00:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T22:00:00+01:00",
+        "end": "2017-02-24T22:50:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T22:50:00+01:00",
+        "end": "2017-02-24T23:10:00+01:00"
       }
     ]
   },
@@ -784,250 +790,262 @@
     },
     "schedules": [
       {
-        "title": "Game of Thrones",
+        "title": "Awesome Program",
         "id": "dummy_program_id",
-        "start": 1487718000000,
-        "end": 1487720400000
+        "start": "2017-02-24T00:00:00+01:00",
+        "end": "2017-02-24T00:50:00+01:00"
       },
       {
         "title": "Cool Stuff",
         "id": "dummy_program_id",
-        "start": 1487720400000,
-        "end": 1487722800000
+        "start": "2017-02-24T00:50:00+01:00",
+        "end": "2017-02-24T01:10:00+01:00"
       },
       {
-        "title": "Supernatural",
+        "title": "Cool Stuff",
         "id": "dummy_program_id",
-        "start": 1487722800000,
-        "end": 1487724600000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487724600000,
-        "end": 1487725800000
+        "start": "2017-02-24T01:10:00+01:00",
+        "end": "2017-02-24T01:30:00+01:00"
       },
       {
         "title": "Interesting Show",
         "id": "dummy_program_id",
-        "start": 1487725800000,
-        "end": 1487728800000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487728800000,
-        "end": 1487731800000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487731800000,
-        "end": 1487733600000
+        "start": "2017-02-24T01:30:00+01:00",
+        "end": "2017-02-24T01:50:00+01:00"
       },
       {
         "title": "Cool Stuff",
         "id": "dummy_program_id",
-        "start": 1487733600000,
-        "end": 1487734800000
+        "start": "2017-02-24T01:50:00+01:00",
+        "end": "2017-02-24T02:20:00+01:00"
       },
       {
         "title": "Vikings",
         "id": "dummy_program_id",
-        "start": 1487734800000,
-        "end": 1487736600000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487736600000,
-        "end": 1487739600000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487739600000,
-        "end": 1487741400000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487741400000,
-        "end": 1487743800000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487743800000,
-        "end": 1487745600000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487745600000,
-        "end": 1487746800000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487746800000,
-        "end": 1487748000000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487748000000,
-        "end": 1487749800000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487749800000,
-        "end": 1487751000000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487751000000,
-        "end": 1487752200000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487752200000,
-        "end": 1487753400000
+        "start": "2017-02-24T02:20:00+01:00",
+        "end": "2017-02-24T02:40:00+01:00"
       },
       {
         "title": "Vikings",
         "id": "dummy_program_id",
-        "start": 1487753400000,
-        "end": 1487755800000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487755800000,
-        "end": 1487757600000
+        "start": "2017-02-24T02:40:00+01:00",
+        "end": "2017-02-24T03:30:00+01:00"
       },
       {
         "title": "Vikings",
         "id": "dummy_program_id",
-        "start": 1487757600000,
-        "end": 1487758800000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487758800000,
-        "end": 1487761200000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487761200000,
-        "end": 1487763600000
+        "start": "2017-02-24T03:30:00+01:00",
+        "end": "2017-02-24T03:50:00+01:00"
       },
       {
         "title": "Supernatural",
         "id": "dummy_program_id",
-        "start": 1487763600000,
-        "end": 1487764800000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487764800000,
-        "end": 1487766600000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487766600000,
-        "end": 1487769600000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487769600000,
-        "end": 1487771400000
+        "start": "2017-02-24T03:50:00+01:00",
+        "end": "2017-02-24T04:10:00+01:00"
       },
       {
         "title": "Game of Thrones",
         "id": "dummy_program_id",
-        "start": 1487771400000,
-        "end": 1487774400000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487774400000,
-        "end": 1487777400000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487777400000,
-        "end": 1487778600000
+        "start": "2017-02-24T04:10:00+01:00",
+        "end": "2017-02-24T04:50:00+01:00"
       },
       {
         "title": "Vikings",
         "id": "dummy_program_id",
-        "start": 1487778600000,
-        "end": 1487781600000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487781600000,
-        "end": 1487783400000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487783400000,
-        "end": 1487784600000
+        "start": "2017-02-24T04:50:00+01:00",
+        "end": "2017-02-24T05:10:00+01:00"
       },
       {
         "title": "Vikings",
         "id": "dummy_program_id",
-        "start": 1487784600000,
-        "end": 1487786400000
+        "start": "2017-02-24T05:10:00+01:00",
+        "end": "2017-02-24T05:30:00+01:00"
       },
       {
-        "title": "Game of Thrones",
+        "title": "Vikings",
         "id": "dummy_program_id",
-        "start": 1487786400000,
-        "end": 1487789400000
+        "start": "2017-02-24T05:30:00+01:00",
+        "end": "2017-02-24T06:20:00+01:00"
       },
       {
-        "title": "Interesting Show",
+        "title": "Vikings",
         "id": "dummy_program_id",
-        "start": 1487789400000,
-        "end": 1487791800000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487791800000,
-        "end": 1487794800000
+        "start": "2017-02-24T06:20:00+01:00",
+        "end": "2017-02-24T06:40:00+01:00"
       },
       {
         "title": "Awesome Program",
         "id": "dummy_program_id",
-        "start": 1487794800000,
-        "end": 1487797800000
+        "start": "2017-02-24T06:40:00+01:00",
+        "end": "2017-02-24T07:00:00+01:00"
       },
       {
-        "title": "Interesting Show",
+        "title": "Awesome Program",
         "id": "dummy_program_id",
-        "start": 1487797800000,
-        "end": 1487800200000
+        "start": "2017-02-24T07:00:00+01:00",
+        "end": "2017-02-24T07:50:00+01:00"
       },
       {
         "title": "Game of Thrones",
         "id": "dummy_program_id",
-        "start": 1487800200000,
-        "end": 1487803200000
+        "start": "2017-02-24T07:50:00+01:00",
+        "end": "2017-02-24T08:20:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T08:20:00+01:00",
+        "end": "2017-02-24T08:40:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T08:40:00+01:00",
+        "end": "2017-02-24T09:20:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T09:20:00+01:00",
+        "end": "2017-02-24T10:00:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T10:00:00+01:00",
+        "end": "2017-02-24T10:20:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T10:20:00+01:00",
+        "end": "2017-02-24T11:00:00+01:00"
+      },
+      {
+        "title": "Interesting Show",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T11:00:00+01:00",
+        "end": "2017-02-24T11:20:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T11:20:00+01:00",
+        "end": "2017-02-24T11:40:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T11:40:00+01:00",
+        "end": "2017-02-24T12:30:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T12:30:00+01:00",
+        "end": "2017-02-24T13:10:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T13:10:00+01:00",
+        "end": "2017-02-24T13:50:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T13:50:00+01:00",
+        "end": "2017-02-24T14:20:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T14:20:00+01:00",
+        "end": "2017-02-24T15:10:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T15:10:00+01:00",
+        "end": "2017-02-24T15:40:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T15:40:00+01:00",
+        "end": "2017-02-24T16:10:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T16:10:00+01:00",
+        "end": "2017-02-24T17:00:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T17:00:00+01:00",
+        "end": "2017-02-24T17:40:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T17:40:00+01:00",
+        "end": "2017-02-24T18:20:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T18:20:00+01:00",
+        "end": "2017-02-24T18:50:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T18:50:00+01:00",
+        "end": "2017-02-24T19:20:00+01:00"
+      },
+      {
+        "title": "Interesting Show",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T19:20:00+01:00",
+        "end": "2017-02-24T20:10:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T20:10:00+01:00",
+        "end": "2017-02-24T21:00:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T21:00:00+01:00",
+        "end": "2017-02-24T21:40:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T21:40:00+01:00",
+        "end": "2017-02-24T22:00:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T22:00:00+01:00",
+        "end": "2017-02-24T22:40:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T22:40:00+01:00",
+        "end": "2017-02-24T23:00:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T23:00:00+01:00",
+        "end": "2017-02-24T23:20:00+01:00"
       }
     ]
   },
@@ -1039,244 +1057,256 @@
     },
     "schedules": [
       {
-        "title": "Cool Stuff",
+        "title": "Interesting Show",
         "id": "dummy_program_id",
-        "start": 1487718000000,
-        "end": 1487719800000
+        "start": "2017-02-24T00:00:00+01:00",
+        "end": "2017-02-24T00:40:00+01:00"
       },
       {
-        "title": "Vikings",
+        "title": "Interesting Show",
         "id": "dummy_program_id",
-        "start": 1487719800000,
-        "end": 1487722200000
+        "start": "2017-02-24T00:40:00+01:00",
+        "end": "2017-02-24T01:10:00+01:00"
+      },
+      {
+        "title": "Interesting Show",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T01:10:00+01:00",
+        "end": "2017-02-24T01:30:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T01:30:00+01:00",
+        "end": "2017-02-24T02:20:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T02:20:00+01:00",
+        "end": "2017-02-24T02:40:00+01:00"
       },
       {
         "title": "Game of Thrones",
         "id": "dummy_program_id",
-        "start": 1487722200000,
-        "end": 1487724600000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487724600000,
-        "end": 1487727600000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487727600000,
-        "end": 1487728800000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487728800000,
-        "end": 1487730600000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487730600000,
-        "end": 1487731800000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487731800000,
-        "end": 1487733600000
+        "start": "2017-02-24T02:40:00+01:00",
+        "end": "2017-02-24T03:20:00+01:00"
       },
       {
         "title": "Vikings",
         "id": "dummy_program_id",
-        "start": 1487733600000,
-        "end": 1487734800000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487734800000,
-        "end": 1487737200000
+        "start": "2017-02-24T03:20:00+01:00",
+        "end": "2017-02-24T03:40:00+01:00"
       },
       {
         "title": "Cool Stuff",
         "id": "dummy_program_id",
-        "start": 1487737200000,
-        "end": 1487739600000
+        "start": "2017-02-24T03:40:00+01:00",
+        "end": "2017-02-24T04:30:00+01:00"
+      },
+      {
+        "title": "Interesting Show",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T04:30:00+01:00",
+        "end": "2017-02-24T05:10:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T05:10:00+01:00",
+        "end": "2017-02-24T05:40:00+01:00"
       },
       {
         "title": "Vikings",
         "id": "dummy_program_id",
-        "start": 1487739600000,
-        "end": 1487742600000
+        "start": "2017-02-24T05:40:00+01:00",
+        "end": "2017-02-24T06:30:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T06:30:00+01:00",
+        "end": "2017-02-24T07:00:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T07:00:00+01:00",
+        "end": "2017-02-24T07:40:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T07:40:00+01:00",
+        "end": "2017-02-24T08:00:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T08:00:00+01:00",
+        "end": "2017-02-24T08:30:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T08:30:00+01:00",
+        "end": "2017-02-24T09:20:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T09:20:00+01:00",
+        "end": "2017-02-24T09:40:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T09:40:00+01:00",
+        "end": "2017-02-24T10:20:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T10:20:00+01:00",
+        "end": "2017-02-24T10:40:00+01:00"
       },
       {
         "title": "Interesting Show",
         "id": "dummy_program_id",
-        "start": 1487742600000,
-        "end": 1487745600000
+        "start": "2017-02-24T10:40:00+01:00",
+        "end": "2017-02-24T11:30:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T11:30:00+01:00",
+        "end": "2017-02-24T12:10:00+01:00"
       },
       {
         "title": "Interesting Show",
         "id": "dummy_program_id",
-        "start": 1487745600000,
-        "end": 1487747400000
+        "start": "2017-02-24T12:10:00+01:00",
+        "end": "2017-02-24T12:40:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T12:40:00+01:00",
+        "end": "2017-02-24T13:30:00+01:00"
       },
       {
         "title": "Game of Thrones",
         "id": "dummy_program_id",
-        "start": 1487747400000,
-        "end": 1487749800000
+        "start": "2017-02-24T13:30:00+01:00",
+        "end": "2017-02-24T13:50:00+01:00"
       },
       {
-        "title": "Game of Thrones",
+        "title": "Supernatural",
         "id": "dummy_program_id",
-        "start": 1487749800000,
-        "end": 1487751600000
+        "start": "2017-02-24T13:50:00+01:00",
+        "end": "2017-02-24T14:40:00+01:00"
       },
       {
         "title": "Awesome Program",
         "id": "dummy_program_id",
-        "start": 1487751600000,
-        "end": 1487752800000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487752800000,
-        "end": 1487755800000
-      },
-      {
-        "title": "Vikings",
-        "id": "dummy_program_id",
-        "start": 1487755800000,
-        "end": 1487758800000
-      },
-      {
-        "title": "Vikings",
-        "id": "dummy_program_id",
-        "start": 1487758800000,
-        "end": 1487761800000
+        "start": "2017-02-24T14:40:00+01:00",
+        "end": "2017-02-24T15:10:00+01:00"
       },
       {
         "title": "Game of Thrones",
         "id": "dummy_program_id",
-        "start": 1487761800000,
-        "end": 1487764200000
+        "start": "2017-02-24T15:10:00+01:00",
+        "end": "2017-02-24T15:30:00+01:00"
       },
       {
         "title": "Cool Stuff",
         "id": "dummy_program_id",
-        "start": 1487764200000,
-        "end": 1487766000000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487766000000,
-        "end": 1487768400000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487768400000,
-        "end": 1487769600000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487769600000,
-        "end": 1487770800000
-      },
-      {
-        "title": "Vikings",
-        "id": "dummy_program_id",
-        "start": 1487770800000,
-        "end": 1487773800000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487773800000,
-        "end": 1487776200000
+        "start": "2017-02-24T15:30:00+01:00",
+        "end": "2017-02-24T15:50:00+01:00"
       },
       {
         "title": "Game of Thrones",
         "id": "dummy_program_id",
-        "start": 1487776200000,
-        "end": 1487778000000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487778000000,
-        "end": 1487780400000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487780400000,
-        "end": 1487781600000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487781600000,
-        "end": 1487784600000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487784600000,
-        "end": 1487787000000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487787000000,
-        "end": 1487788200000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487788200000,
-        "end": 1487790600000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487790600000,
-        "end": 1487793000000
+        "start": "2017-02-24T15:50:00+01:00",
+        "end": "2017-02-24T16:40:00+01:00"
       },
       {
         "title": "Interesting Show",
         "id": "dummy_program_id",
-        "start": 1487793000000,
-        "end": 1487796000000
+        "start": "2017-02-24T16:40:00+01:00",
+        "end": "2017-02-24T17:20:00+01:00"
       },
       {
-        "title": "Supernatural",
+        "title": "Game of Thrones",
         "id": "dummy_program_id",
-        "start": 1487796000000,
-        "end": 1487797200000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487797200000,
-        "end": 1487799000000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487799000000,
-        "end": 1487801400000
+        "start": "2017-02-24T17:20:00+01:00",
+        "end": "2017-02-24T17:40:00+01:00"
       },
       {
         "title": "Cool Stuff",
         "id": "dummy_program_id",
-        "start": 1487801400000,
-        "end": 1487803800000
+        "start": "2017-02-24T17:40:00+01:00",
+        "end": "2017-02-24T18:10:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T18:10:00+01:00",
+        "end": "2017-02-24T18:30:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T18:30:00+01:00",
+        "end": "2017-02-24T19:10:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T19:10:00+01:00",
+        "end": "2017-02-24T19:40:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T19:40:00+01:00",
+        "end": "2017-02-24T20:20:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T20:20:00+01:00",
+        "end": "2017-02-24T20:40:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T20:40:00+01:00",
+        "end": "2017-02-24T21:10:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T21:10:00+01:00",
+        "end": "2017-02-24T22:00:00+01:00"
+      },
+      {
+        "title": "Interesting Show",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T22:00:00+01:00",
+        "end": "2017-02-24T22:40:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T22:40:00+01:00",
+        "end": "2017-02-24T23:00:00+01:00"
+      },
+      {
+        "title": "Interesting Show",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T23:00:00+01:00",
+        "end": "2017-02-24T23:50:00+01:00"
       }
     ]
   },
@@ -1288,256 +1318,250 @@
     },
     "schedules": [
       {
-        "title": "Vikings",
+        "title": "Game of Thrones",
         "id": "dummy_program_id",
-        "start": 1487718000000,
-        "end": 1487719200000
+        "start": "2017-02-24T00:00:00+01:00",
+        "end": "2017-02-24T00:30:00+01:00"
       },
       {
         "title": "Interesting Show",
         "id": "dummy_program_id",
-        "start": 1487719200000,
-        "end": 1487720400000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487720400000,
-        "end": 1487722800000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487722800000,
-        "end": 1487724000000
-      },
-      {
-        "title": "Vikings",
-        "id": "dummy_program_id",
-        "start": 1487724000000,
-        "end": 1487727000000
+        "start": "2017-02-24T00:30:00+01:00",
+        "end": "2017-02-24T00:50:00+01:00"
       },
       {
         "title": "Game of Thrones",
         "id": "dummy_program_id",
-        "start": 1487727000000,
-        "end": 1487728200000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487728200000,
-        "end": 1487731200000
+        "start": "2017-02-24T00:50:00+01:00",
+        "end": "2017-02-24T01:10:00+01:00"
       },
       {
         "title": "Game of Thrones",
         "id": "dummy_program_id",
-        "start": 1487731200000,
-        "end": 1487734200000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487734200000,
-        "end": 1487735400000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487735400000,
-        "end": 1487737200000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487737200000,
-        "end": 1487738400000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487738400000,
-        "end": 1487740200000
+        "start": "2017-02-24T01:10:00+01:00",
+        "end": "2017-02-24T01:50:00+01:00"
       },
       {
         "title": "Game of Thrones",
         "id": "dummy_program_id",
-        "start": 1487740200000,
-        "end": 1487742000000
+        "start": "2017-02-24T01:50:00+01:00",
+        "end": "2017-02-24T02:30:00+01:00"
       },
       {
         "title": "Awesome Program",
         "id": "dummy_program_id",
-        "start": 1487742000000,
-        "end": 1487743200000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487743200000,
-        "end": 1487744400000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487744400000,
-        "end": 1487746200000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487746200000,
-        "end": 1487749200000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487749200000,
-        "end": 1487750400000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487750400000,
-        "end": 1487752200000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487752200000,
-        "end": 1487754000000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487754000000,
-        "end": 1487755800000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487755800000,
-        "end": 1487758200000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487758200000,
-        "end": 1487760600000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487760600000,
-        "end": 1487763600000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487763600000,
-        "end": 1487766600000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487766600000,
-        "end": 1487769600000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487769600000,
-        "end": 1487772600000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487772600000,
-        "end": 1487775000000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487775000000,
-        "end": 1487776800000
+        "start": "2017-02-24T02:30:00+01:00",
+        "end": "2017-02-24T03:20:00+01:00"
       },
       {
         "title": "Vikings",
         "id": "dummy_program_id",
-        "start": 1487776800000,
-        "end": 1487779800000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487779800000,
-        "end": 1487781000000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487781000000,
-        "end": 1487784000000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487784000000,
-        "end": 1487785800000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487785800000,
-        "end": 1487788200000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487788200000,
-        "end": 1487790000000
+        "start": "2017-02-24T03:20:00+01:00",
+        "end": "2017-02-24T04:10:00+01:00"
       },
       {
         "title": "Supernatural",
         "id": "dummy_program_id",
-        "start": 1487790000000,
-        "end": 1487791800000
+        "start": "2017-02-24T04:10:00+01:00",
+        "end": "2017-02-24T04:30:00+01:00"
       },
       {
-        "title": "Interesting Show",
+        "title": "Game of Thrones",
         "id": "dummy_program_id",
-        "start": 1487791800000,
-        "end": 1487793000000
+        "start": "2017-02-24T04:30:00+01:00",
+        "end": "2017-02-24T04:50:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T04:50:00+01:00",
+        "end": "2017-02-24T05:10:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T05:10:00+01:00",
+        "end": "2017-02-24T05:30:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T05:30:00+01:00",
+        "end": "2017-02-24T06:20:00+01:00"
       },
       {
         "title": "Cool Stuff",
         "id": "dummy_program_id",
-        "start": 1487793000000,
-        "end": 1487795400000
+        "start": "2017-02-24T06:20:00+01:00",
+        "end": "2017-02-24T07:00:00+01:00"
       },
       {
-        "title": "Interesting Show",
+        "title": "Awesome Program",
         "id": "dummy_program_id",
-        "start": 1487795400000,
-        "end": 1487797800000
+        "start": "2017-02-24T07:00:00+01:00",
+        "end": "2017-02-24T07:50:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T07:50:00+01:00",
+        "end": "2017-02-24T08:40:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T08:40:00+01:00",
+        "end": "2017-02-24T09:20:00+01:00"
       },
       {
         "title": "Cool Stuff",
         "id": "dummy_program_id",
-        "start": 1487797800000,
-        "end": 1487799000000
+        "start": "2017-02-24T09:20:00+01:00",
+        "end": "2017-02-24T09:50:00+01:00"
       },
       {
         "title": "Awesome Program",
         "id": "dummy_program_id",
-        "start": 1487799000000,
-        "end": 1487802000000
+        "start": "2017-02-24T09:50:00+01:00",
+        "end": "2017-02-24T10:40:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T10:40:00+01:00",
+        "end": "2017-02-24T11:20:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T11:20:00+01:00",
+        "end": "2017-02-24T12:10:00+01:00"
+      },
+      {
+        "title": "Interesting Show",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T12:10:00+01:00",
+        "end": "2017-02-24T12:50:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T12:50:00+01:00",
+        "end": "2017-02-24T13:20:00+01:00"
+      },
+      {
+        "title": "Interesting Show",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T13:20:00+01:00",
+        "end": "2017-02-24T13:40:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T13:40:00+01:00",
+        "end": "2017-02-24T14:10:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T14:10:00+01:00",
+        "end": "2017-02-24T14:50:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T14:50:00+01:00",
+        "end": "2017-02-24T15:20:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T15:20:00+01:00",
+        "end": "2017-02-24T16:10:00+01:00"
       },
       {
         "title": "Awesome Program",
         "id": "dummy_program_id",
-        "start": 1487802000000,
-        "end": 1487803800000
+        "start": "2017-02-24T16:10:00+01:00",
+        "end": "2017-02-24T16:30:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T16:30:00+01:00",
+        "end": "2017-02-24T17:00:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T17:00:00+01:00",
+        "end": "2017-02-24T17:40:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T17:40:00+01:00",
+        "end": "2017-02-24T18:10:00+01:00"
+      },
+      {
+        "title": "Interesting Show",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T18:10:00+01:00",
+        "end": "2017-02-24T18:30:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T18:30:00+01:00",
+        "end": "2017-02-24T19:00:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T19:00:00+01:00",
+        "end": "2017-02-24T19:40:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T19:40:00+01:00",
+        "end": "2017-02-24T20:30:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T20:30:00+01:00",
+        "end": "2017-02-24T21:10:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T21:10:00+01:00",
+        "end": "2017-02-24T21:30:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T21:30:00+01:00",
+        "end": "2017-02-24T21:50:00+01:00"
+      },
+      {
+        "title": "Interesting Show",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T21:50:00+01:00",
+        "end": "2017-02-24T22:40:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T22:40:00+01:00",
+        "end": "2017-02-24T23:10:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T23:10:00+01:00",
+        "end": "2017-02-24T23:50:00+01:00"
       }
     ]
   },
@@ -1549,250 +1573,250 @@
     },
     "schedules": [
       {
-        "title": "Interesting Show",
+        "title": "Awesome Program",
         "id": "dummy_program_id",
-        "start": 1487718000000,
-        "end": 1487719800000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487719800000,
-        "end": 1487721600000
+        "start": "2017-02-24T00:00:00+01:00",
+        "end": "2017-02-24T00:50:00+01:00"
       },
       {
         "title": "Cool Stuff",
         "id": "dummy_program_id",
-        "start": 1487721600000,
-        "end": 1487723400000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487723400000,
-        "end": 1487726400000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487726400000,
-        "end": 1487728800000
+        "start": "2017-02-24T00:50:00+01:00",
+        "end": "2017-02-24T01:20:00+01:00"
       },
       {
         "title": "Awesome Program",
         "id": "dummy_program_id",
-        "start": 1487728800000,
-        "end": 1487730000000
+        "start": "2017-02-24T01:20:00+01:00",
+        "end": "2017-02-24T02:00:00+01:00"
       },
       {
         "title": "Vikings",
         "id": "dummy_program_id",
-        "start": 1487730000000,
-        "end": 1487732400000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487732400000,
-        "end": 1487734200000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487734200000,
-        "end": 1487736600000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487736600000,
-        "end": 1487738400000
-      },
-      {
-        "title": "Vikings",
-        "id": "dummy_program_id",
-        "start": 1487738400000,
-        "end": 1487740800000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487740800000,
-        "end": 1487742000000
-      },
-      {
-        "title": "Vikings",
-        "id": "dummy_program_id",
-        "start": 1487742000000,
-        "end": 1487744400000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487744400000,
-        "end": 1487746800000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487746800000,
-        "end": 1487749800000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487749800000,
-        "end": 1487751600000
-      },
-      {
-        "title": "Vikings",
-        "id": "dummy_program_id",
-        "start": 1487751600000,
-        "end": 1487753400000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487753400000,
-        "end": 1487754600000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487754600000,
-        "end": 1487757000000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487757000000,
-        "end": 1487758800000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487758800000,
-        "end": 1487761200000
-      },
-      {
-        "title": "Vikings",
-        "id": "dummy_program_id",
-        "start": 1487761200000,
-        "end": 1487763600000
-      },
-      {
-        "title": "Vikings",
-        "id": "dummy_program_id",
-        "start": 1487763600000,
-        "end": 1487765400000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487765400000,
-        "end": 1487766600000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487766600000,
-        "end": 1487769600000
+        "start": "2017-02-24T02:00:00+01:00",
+        "end": "2017-02-24T02:40:00+01:00"
       },
       {
         "title": "Interesting Show",
         "id": "dummy_program_id",
-        "start": 1487769600000,
-        "end": 1487772000000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487772000000,
-        "end": 1487773800000
-      },
-      {
-        "title": "Vikings",
-        "id": "dummy_program_id",
-        "start": 1487773800000,
-        "end": 1487776200000
-      },
-      {
-        "title": "Vikings",
-        "id": "dummy_program_id",
-        "start": 1487776200000,
-        "end": 1487777400000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487777400000,
-        "end": 1487779800000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487779800000,
-        "end": 1487781000000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487781000000,
-        "end": 1487782200000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487782200000,
-        "end": 1487784600000
+        "start": "2017-02-24T02:40:00+01:00",
+        "end": "2017-02-24T03:10:00+01:00"
       },
       {
         "title": "Game of Thrones",
         "id": "dummy_program_id",
-        "start": 1487784600000,
-        "end": 1487786400000
+        "start": "2017-02-24T03:10:00+01:00",
+        "end": "2017-02-24T03:40:00+01:00"
       },
       {
-        "title": "Game of Thrones",
+        "title": "Interesting Show",
         "id": "dummy_program_id",
-        "start": 1487786400000,
-        "end": 1487788800000
+        "start": "2017-02-24T03:40:00+01:00",
+        "end": "2017-02-24T04:10:00+01:00"
       },
       {
         "title": "Awesome Program",
         "id": "dummy_program_id",
-        "start": 1487788800000,
-        "end": 1487791200000
+        "start": "2017-02-24T04:10:00+01:00",
+        "end": "2017-02-24T04:30:00+01:00"
       },
       {
         "title": "Cool Stuff",
         "id": "dummy_program_id",
-        "start": 1487791200000,
-        "end": 1487792400000
+        "start": "2017-02-24T04:30:00+01:00",
+        "end": "2017-02-24T05:10:00+01:00"
       },
       {
-        "title": "Awesome Program",
+        "title": "Cool Stuff",
         "id": "dummy_program_id",
-        "start": 1487792400000,
-        "end": 1487795400000
+        "start": "2017-02-24T05:10:00+01:00",
+        "end": "2017-02-24T05:40:00+01:00"
       },
       {
         "title": "Supernatural",
         "id": "dummy_program_id",
-        "start": 1487795400000,
-        "end": 1487797200000
+        "start": "2017-02-24T05:40:00+01:00",
+        "end": "2017-02-24T06:20:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T06:20:00+01:00",
+        "end": "2017-02-24T07:00:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T07:00:00+01:00",
+        "end": "2017-02-24T07:50:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T07:50:00+01:00",
+        "end": "2017-02-24T08:40:00+01:00"
+      },
+      {
+        "title": "Interesting Show",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T08:40:00+01:00",
+        "end": "2017-02-24T09:20:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T09:20:00+01:00",
+        "end": "2017-02-24T10:10:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T10:10:00+01:00",
+        "end": "2017-02-24T10:50:00+01:00"
       },
       {
         "title": "Vikings",
         "id": "dummy_program_id",
-        "start": 1487797200000,
-        "end": 1487799000000
+        "start": "2017-02-24T10:50:00+01:00",
+        "end": "2017-02-24T11:10:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T11:10:00+01:00",
+        "end": "2017-02-24T12:00:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T12:00:00+01:00",
+        "end": "2017-02-24T12:30:00+01:00"
       },
       {
         "title": "Vikings",
         "id": "dummy_program_id",
-        "start": 1487799000000,
-        "end": 1487802000000
+        "start": "2017-02-24T12:30:00+01:00",
+        "end": "2017-02-24T13:10:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T13:10:00+01:00",
+        "end": "2017-02-24T13:30:00+01:00"
+      },
+      {
+        "title": "Interesting Show",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T13:30:00+01:00",
+        "end": "2017-02-24T14:00:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T14:00:00+01:00",
+        "end": "2017-02-24T14:20:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T14:20:00+01:00",
+        "end": "2017-02-24T14:50:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T14:50:00+01:00",
+        "end": "2017-02-24T15:20:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T15:20:00+01:00",
+        "end": "2017-02-24T16:00:00+01:00"
+      },
+      {
+        "title": "Interesting Show",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T16:00:00+01:00",
+        "end": "2017-02-24T16:40:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T16:40:00+01:00",
+        "end": "2017-02-24T17:00:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T17:00:00+01:00",
+        "end": "2017-02-24T17:20:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T17:20:00+01:00",
+        "end": "2017-02-24T18:10:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T18:10:00+01:00",
+        "end": "2017-02-24T18:30:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T18:30:00+01:00",
+        "end": "2017-02-24T19:10:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T19:10:00+01:00",
+        "end": "2017-02-24T20:00:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T20:00:00+01:00",
+        "end": "2017-02-24T20:20:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T20:20:00+01:00",
+        "end": "2017-02-24T20:50:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T20:50:00+01:00",
+        "end": "2017-02-24T21:20:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T21:20:00+01:00",
+        "end": "2017-02-24T22:00:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T22:00:00+01:00",
+        "end": "2017-02-24T22:40:00+01:00"
+      },
+      {
+        "title": "Interesting Show",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T22:40:00+01:00",
+        "end": "2017-02-24T23:10:00+01:00"
+      },
+      {
+        "title": "Interesting Show",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T23:10:00+01:00",
+        "end": "2017-02-24T23:50:00+01:00"
       }
     ]
   },
@@ -1804,256 +1828,238 @@
     },
     "schedules": [
       {
-        "title": "Supernatural",
+        "title": "Game of Thrones",
         "id": "dummy_program_id",
-        "start": 1487718000000,
-        "end": 1487720400000
-      },
-      {
-        "title": "Vikings",
-        "id": "dummy_program_id",
-        "start": 1487720400000,
-        "end": 1487723400000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487723400000,
-        "end": 1487726400000
+        "start": "2017-02-24T00:00:00+01:00",
+        "end": "2017-02-24T00:40:00+01:00"
       },
       {
         "title": "Game of Thrones",
         "id": "dummy_program_id",
-        "start": 1487726400000,
-        "end": 1487727600000
+        "start": "2017-02-24T00:40:00+01:00",
+        "end": "2017-02-24T01:10:00+01:00"
+      },
+      {
+        "title": "Interesting Show",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T01:10:00+01:00",
+        "end": "2017-02-24T02:00:00+01:00"
       },
       {
         "title": "Supernatural",
         "id": "dummy_program_id",
-        "start": 1487727600000,
-        "end": 1487729400000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487729400000,
-        "end": 1487730600000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487730600000,
-        "end": 1487733600000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487733600000,
-        "end": 1487734800000
+        "start": "2017-02-24T02:00:00+01:00",
+        "end": "2017-02-24T02:40:00+01:00"
       },
       {
         "title": "Cool Stuff",
         "id": "dummy_program_id",
-        "start": 1487734800000,
-        "end": 1487736000000
+        "start": "2017-02-24T02:40:00+01:00",
+        "end": "2017-02-24T03:30:00+01:00"
       },
       {
-        "title": "Cool Stuff",
+        "title": "Interesting Show",
         "id": "dummy_program_id",
-        "start": 1487736000000,
-        "end": 1487738400000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487738400000,
-        "end": 1487740200000
+        "start": "2017-02-24T03:30:00+01:00",
+        "end": "2017-02-24T03:50:00+01:00"
       },
       {
         "title": "Vikings",
         "id": "dummy_program_id",
-        "start": 1487740200000,
-        "end": 1487742000000
+        "start": "2017-02-24T03:50:00+01:00",
+        "end": "2017-02-24T04:40:00+01:00"
       },
       {
-        "title": "Cool Stuff",
+        "title": "Interesting Show",
         "id": "dummy_program_id",
-        "start": 1487742000000,
-        "end": 1487743200000
+        "start": "2017-02-24T04:40:00+01:00",
+        "end": "2017-02-24T05:30:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T05:30:00+01:00",
+        "end": "2017-02-24T05:50:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T05:50:00+01:00",
+        "end": "2017-02-24T06:40:00+01:00"
       },
       {
         "title": "Vikings",
         "id": "dummy_program_id",
-        "start": 1487743200000,
-        "end": 1487744400000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487744400000,
-        "end": 1487747400000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487747400000,
-        "end": 1487749200000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487749200000,
-        "end": 1487751000000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487751000000,
-        "end": 1487752800000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487752800000,
-        "end": 1487754000000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487754000000,
-        "end": 1487756400000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487756400000,
-        "end": 1487759400000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487759400000,
-        "end": 1487761200000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487761200000,
-        "end": 1487764200000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487764200000,
-        "end": 1487766600000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487766600000,
-        "end": 1487769600000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487769600000,
-        "end": 1487771400000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487771400000,
-        "end": 1487772600000
+        "start": "2017-02-24T06:40:00+01:00",
+        "end": "2017-02-24T07:10:00+01:00"
       },
       {
         "title": "Vikings",
         "id": "dummy_program_id",
-        "start": 1487772600000,
-        "end": 1487774400000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487774400000,
-        "end": 1487776200000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487776200000,
-        "end": 1487779200000
-      },
-      {
-        "title": "Vikings",
-        "id": "dummy_program_id",
-        "start": 1487779200000,
-        "end": 1487781600000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487781600000,
-        "end": 1487782800000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487782800000,
-        "end": 1487785800000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487785800000,
-        "end": 1487787600000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487787600000,
-        "end": 1487790600000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487790600000,
-        "end": 1487793600000
+        "start": "2017-02-24T07:10:00+01:00",
+        "end": "2017-02-24T07:40:00+01:00"
       },
       {
         "title": "Awesome Program",
         "id": "dummy_program_id",
-        "start": 1487793600000,
-        "end": 1487794800000
-      },
-      {
-        "title": "Vikings",
-        "id": "dummy_program_id",
-        "start": 1487794800000,
-        "end": 1487797200000
-      },
-      {
-        "title": "Supernatural",
-        "id": "dummy_program_id",
-        "start": 1487797200000,
-        "end": 1487799600000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487799600000,
-        "end": 1487801400000
+        "start": "2017-02-24T07:40:00+01:00",
+        "end": "2017-02-24T08:20:00+01:00"
       },
       {
         "title": "Game of Thrones",
         "id": "dummy_program_id",
-        "start": 1487801400000,
-        "end": 1487802600000
+        "start": "2017-02-24T08:20:00+01:00",
+        "end": "2017-02-24T09:00:00+01:00"
+      },
+      {
+        "title": "Interesting Show",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T09:00:00+01:00",
+        "end": "2017-02-24T09:40:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T09:40:00+01:00",
+        "end": "2017-02-24T10:30:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T10:30:00+01:00",
+        "end": "2017-02-24T11:00:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T11:00:00+01:00",
+        "end": "2017-02-24T11:50:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T11:50:00+01:00",
+        "end": "2017-02-24T12:10:00+01:00"
       },
       {
         "title": "Vikings",
         "id": "dummy_program_id",
-        "start": 1487802600000,
-        "end": 1487803800000
+        "start": "2017-02-24T12:10:00+01:00",
+        "end": "2017-02-24T12:50:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T12:50:00+01:00",
+        "end": "2017-02-24T13:40:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T13:40:00+01:00",
+        "end": "2017-02-24T14:20:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T14:20:00+01:00",
+        "end": "2017-02-24T15:10:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T15:10:00+01:00",
+        "end": "2017-02-24T15:50:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T15:50:00+01:00",
+        "end": "2017-02-24T16:20:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T16:20:00+01:00",
+        "end": "2017-02-24T16:50:00+01:00"
+      },
+      {
+        "title": "Interesting Show",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T16:50:00+01:00",
+        "end": "2017-02-24T17:20:00+01:00"
+      },
+      {
+        "title": "Interesting Show",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T17:20:00+01:00",
+        "end": "2017-02-24T17:40:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T17:40:00+01:00",
+        "end": "2017-02-24T18:00:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T18:00:00+01:00",
+        "end": "2017-02-24T18:20:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T18:20:00+01:00",
+        "end": "2017-02-24T19:10:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T19:10:00+01:00",
+        "end": "2017-02-24T19:50:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T19:50:00+01:00",
+        "end": "2017-02-24T20:30:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T20:30:00+01:00",
+        "end": "2017-02-24T21:20:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T21:20:00+01:00",
+        "end": "2017-02-24T21:40:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T21:40:00+01:00",
+        "end": "2017-02-24T22:10:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T22:10:00+01:00",
+        "end": "2017-02-24T22:40:00+01:00"
+      },
+      {
+        "title": "Interesting Show",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T22:40:00+01:00",
+        "end": "2017-02-24T23:00:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T23:00:00+01:00",
+        "end": "2017-02-24T23:20:00+01:00"
       }
     ]
   },
@@ -2065,244 +2071,262 @@
     },
     "schedules": [
       {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T00:00:00+01:00",
+        "end": "2017-02-24T00:20:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T00:20:00+01:00",
+        "end": "2017-02-24T00:50:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T00:50:00+01:00",
+        "end": "2017-02-24T01:20:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T01:20:00+01:00",
+        "end": "2017-02-24T01:40:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T01:40:00+01:00",
+        "end": "2017-02-24T02:00:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T02:00:00+01:00",
+        "end": "2017-02-24T02:20:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T02:20:00+01:00",
+        "end": "2017-02-24T02:50:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T02:50:00+01:00",
+        "end": "2017-02-24T03:10:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T03:10:00+01:00",
+        "end": "2017-02-24T03:40:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T03:40:00+01:00",
+        "end": "2017-02-24T04:20:00+01:00"
+      },
+      {
+        "title": "Interesting Show",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T04:20:00+01:00",
+        "end": "2017-02-24T04:50:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T04:50:00+01:00",
+        "end": "2017-02-24T05:20:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T05:20:00+01:00",
+        "end": "2017-02-24T05:40:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T05:40:00+01:00",
+        "end": "2017-02-24T06:00:00+01:00"
+      },
+      {
+        "title": "Interesting Show",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T06:00:00+01:00",
+        "end": "2017-02-24T06:50:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T06:50:00+01:00",
+        "end": "2017-02-24T07:20:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T07:20:00+01:00",
+        "end": "2017-02-24T07:50:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T07:50:00+01:00",
+        "end": "2017-02-24T08:20:00+01:00"
+      },
+      {
+        "title": "Interesting Show",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T08:20:00+01:00",
+        "end": "2017-02-24T08:40:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T08:40:00+01:00",
+        "end": "2017-02-24T09:10:00+01:00"
+      },
+      {
+        "title": "Interesting Show",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T09:10:00+01:00",
+        "end": "2017-02-24T09:40:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T09:40:00+01:00",
+        "end": "2017-02-24T10:20:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T10:20:00+01:00",
+        "end": "2017-02-24T10:50:00+01:00"
+      },
+      {
         "title": "Supernatural",
         "id": "dummy_program_id",
-        "start": 1487718000000,
-        "end": 1487721000000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487721000000,
-        "end": 1487723400000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487723400000,
-        "end": 1487725800000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487725800000,
-        "end": 1487727600000
+        "start": "2017-02-24T10:50:00+01:00",
+        "end": "2017-02-24T11:20:00+01:00"
       },
       {
         "title": "Cool Stuff",
         "id": "dummy_program_id",
-        "start": 1487727600000,
-        "end": 1487730000000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487730000000,
-        "end": 1487731800000
+        "start": "2017-02-24T11:20:00+01:00",
+        "end": "2017-02-24T11:50:00+01:00"
       },
       {
         "title": "Vikings",
         "id": "dummy_program_id",
-        "start": 1487731800000,
-        "end": 1487733000000
+        "start": "2017-02-24T11:50:00+01:00",
+        "end": "2017-02-24T12:30:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T12:30:00+01:00",
+        "end": "2017-02-24T13:10:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T13:10:00+01:00",
+        "end": "2017-02-24T13:40:00+01:00"
+      },
+      {
+        "title": "Awesome Program",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T13:40:00+01:00",
+        "end": "2017-02-24T14:10:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T14:10:00+01:00",
+        "end": "2017-02-24T15:00:00+01:00"
+      },
+      {
+        "title": "Cool Stuff",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T15:00:00+01:00",
+        "end": "2017-02-24T15:40:00+01:00"
       },
       {
         "title": "Interesting Show",
         "id": "dummy_program_id",
-        "start": 1487733000000,
-        "end": 1487734200000
+        "start": "2017-02-24T15:40:00+01:00",
+        "end": "2017-02-24T16:10:00+01:00"
+      },
+      {
+        "title": "Game of Thrones",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T16:10:00+01:00",
+        "end": "2017-02-24T16:30:00+01:00"
+      },
+      {
+        "title": "Vikings",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T16:30:00+01:00",
+        "end": "2017-02-24T17:10:00+01:00"
       },
       {
         "title": "Supernatural",
         "id": "dummy_program_id",
-        "start": 1487734200000,
-        "end": 1487737200000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487737200000,
-        "end": 1487739600000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487739600000,
-        "end": 1487741400000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487741400000,
-        "end": 1487742600000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487742600000,
-        "end": 1487745000000
-      },
-      {
-        "title": "Vikings",
-        "id": "dummy_program_id",
-        "start": 1487745000000,
-        "end": 1487746200000
+        "start": "2017-02-24T17:10:00+01:00",
+        "end": "2017-02-24T17:40:00+01:00"
       },
       {
         "title": "Supernatural",
         "id": "dummy_program_id",
-        "start": 1487746200000,
-        "end": 1487749200000
+        "start": "2017-02-24T17:40:00+01:00",
+        "end": "2017-02-24T18:30:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T18:30:00+01:00",
+        "end": "2017-02-24T19:20:00+01:00"
+      },
+      {
+        "title": "Supernatural",
+        "id": "dummy_program_id",
+        "start": "2017-02-24T19:20:00+01:00",
+        "end": "2017-02-24T20:00:00+01:00"
       },
       {
         "title": "Vikings",
         "id": "dummy_program_id",
-        "start": 1487749200000,
-        "end": 1487752200000
+        "start": "2017-02-24T20:00:00+01:00",
+        "end": "2017-02-24T20:50:00+01:00"
       },
       {
         "title": "Vikings",
         "id": "dummy_program_id",
-        "start": 1487752200000,
-        "end": 1487755200000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487755200000,
-        "end": 1487757600000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487757600000,
-        "end": 1487760000000
+        "start": "2017-02-24T20:50:00+01:00",
+        "end": "2017-02-24T21:20:00+01:00"
       },
       {
         "title": "Awesome Program",
         "id": "dummy_program_id",
-        "start": 1487760000000,
-        "end": 1487763000000
+        "start": "2017-02-24T21:20:00+01:00",
+        "end": "2017-02-24T22:10:00+01:00"
       },
       {
-        "title": "Interesting Show",
+        "title": "Vikings",
         "id": "dummy_program_id",
-        "start": 1487763000000,
-        "end": 1487764200000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487764200000,
-        "end": 1487766600000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487766600000,
-        "end": 1487767800000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487767800000,
-        "end": 1487769000000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487769000000,
-        "end": 1487770200000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487770200000,
-        "end": 1487771400000
+        "start": "2017-02-24T22:10:00+01:00",
+        "end": "2017-02-24T22:50:00+01:00"
       },
       {
         "title": "Game of Thrones",
         "id": "dummy_program_id",
-        "start": 1487771400000,
-        "end": 1487772600000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487772600000,
-        "end": 1487775000000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487775000000,
-        "end": 1487778000000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487778000000,
-        "end": 1487779800000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487779800000,
-        "end": 1487782200000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487782200000,
-        "end": 1487784000000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487784000000,
-        "end": 1487785800000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487785800000,
-        "end": 1487787000000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487787000000,
-        "end": 1487788200000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487788200000,
-        "end": 1487791200000
-      },
-      {
-        "title": "Game of Thrones",
-        "id": "dummy_program_id",
-        "start": 1487791200000,
-        "end": 1487793000000
-      },
-      {
-        "title": "Awesome Program",
-        "id": "dummy_program_id",
-        "start": 1487793000000,
-        "end": 1487796000000
-      },
-      {
-        "title": "Cool Stuff",
-        "id": "dummy_program_id",
-        "start": 1487796000000,
-        "end": 1487798400000
-      },
-      {
-        "title": "Interesting Show",
-        "id": "dummy_program_id",
-        "start": 1487798400000,
-        "end": 1487801400000
+        "start": "2017-02-24T22:50:00+01:00",
+        "end": "2017-02-24T23:30:00+01:00"
       }
     ]
   }

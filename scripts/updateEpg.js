@@ -32,8 +32,8 @@ for (var i = 0; i < epgData.length; i++) {
     program.title = programsRotation[Math.floor(Math.random() * (programsRotation.length))];
 
     program.id = 'dummy_program_id';
-    program.start = startTime;
-    program.end = endTime;
+    program.start = moment(startTime).format();
+    program.end = moment(endTime).format();
 
     schedules.push(program);
 
