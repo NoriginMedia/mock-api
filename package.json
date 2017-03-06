@@ -4,8 +4,9 @@
   "description": "Norigin Media Mocked API for demo and dev purposes based on RAML server",
   "scripts": {
     "update:epg": "node ./scripts/updateEpg.js",
+    "update:programs": "node ./scripts/updatePrograms.js",
     "start:demo": "./node_modules/.bin/osprey-mock-service -f demo.raml -p 1337 --cors",
-    "start": "npm run update:epg && npm run start:demo"
+    "start": "npm run update:epg && npm run update:programs && npm run start:demo"
   },
   "author": "NoriginMedia AS",
   "license": "ISC",

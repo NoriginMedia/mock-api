@@ -18,13 +18,13 @@ title: "Norigin Media Mock API"
             application/json:
               example: !include examples/demo/authenticate.json
 
-/categories:
+/genres:
   get:
     responses:
       200:
         body:
           application/json:
-            example: !include examples/demo/categories.json
+            example: !include examples/demo/genres.json
 
 /slides:
   get:
@@ -53,17 +53,24 @@ title: "Norigin Media Mock API"
                 example: !include examples/demo/channel-stream.json
 
 /program:
-  /another_program_id:
+  /program_catchup_id:
     get:
       responses:
         200:
           body:
             application/json:
-              example: !include examples/demo/program_alt.json
+              example: !include examples/demo/program_catchup.json
+  /program_live_id:
+    get:
+      responses:
+        200:
+          body:
+            application/json:
+              example: !include examples/demo/program_live.json
   /{programId}:
     get:
       responses:
         200:
           body:
             application/json:
-              example: !include examples/demo/program.json
+              example: !include examples/demo/program_future.json

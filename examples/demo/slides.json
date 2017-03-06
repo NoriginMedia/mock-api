@@ -14,7 +14,6 @@
     {
       "id": "dummy_program_id",
       "title":"Supernatural",
-      "isLive": true,
       "images":{
         "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/slide_supernatural.jpg"
       },
@@ -26,7 +25,6 @@
     {
       "id": "dummy_program_id",
       "title":"Vikings",
-      "isLive": true,
       "images":{
         "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/slide_vikings.jpg"
       },
@@ -49,7 +47,6 @@
     {
       "id": "dummy_program_id",
       "title":"Game of Thrones",
-      "isLive": true,
       "images":{
         "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/slide_game_of_thrones.jpg"
       },
