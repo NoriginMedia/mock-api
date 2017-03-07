@@ -26,6 +26,8 @@ var updateProgramTime = function(program, type) {
     program.end = moment(currentDay).add(1, "minute").format();
     program.catchupExpiration = moment(afterThreeDays).format();
   }
+
+  return program;
 };
 
 // SLIDES
@@ -49,9 +51,9 @@ var genresFile = "examples/demo/genres.json";
 var genresData = jsonfile.readFileSync(genresFile);
 var programs = genresData.programs;
 
-programs[0] = updateProgramTime(programs[0], "future");
-programs[1] = updateProgramTime(programs[1], "live");
-programs[2] = updateProgramTime(programs[2], "catchup");
+programs["dummy_program_id"] = updateProgramTime(programs["dummy_program_id"], "future");
+programs["program_live_id"] = updateProgramTime(programs["program_live_id"], "live");
+programs["program_catchup_id"] = updateProgramTime(programs["program_catchup_id"], "catchup");
 
 genresData.programs = programs;
 jsonfile.writeFileSync(genresFile, genresData, {spaces: 2});

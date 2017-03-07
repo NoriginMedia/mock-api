@@ -1,13 +1,14 @@
 {
   "id": "dummy_program_id",
-  "title":"Vikings (Future)",
-  "start": "2017-03-06T23:50:00+01:00",
-  "end": "2017-03-06T23:59:00+01:00",
-  "images":{
-    "CarouselLandscapeHeader":"https://img.noriginmedia.com/cloudberry/slide_vikings.jpg"
+  "title": "Vikings (Future)",
+  "start": "2017-03-07T23:58:00+01:00",
+  "end": "2017-03-07T23:59:00+01:00",
+  "images": {
+    "CarouselLandscapeHeader": "https://img.noriginmedia.com/cloudberry/slide_vikings.jpg"
   },
-  "channelInfo":{
-    "title":"History",
+  "channelInfo": {
+    "id": "history",
+    "title": "History",
     "images": {
       "LOGO": "https://img.noriginmedia.com/cloudberry/logo_history.png"
     }
