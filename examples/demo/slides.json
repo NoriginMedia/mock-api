@@ -6,13 +6,11 @@
       "images": {
         "CarouselLandscapeHeader": "https://img.noriginmedia.com/cloudberry/slide_downtown_abbey.jpg"
       },
-      "channelInfo": {
-        "id": "cw",
-        "title": "Comedy Central"
-      },
-      "start": "2017-03-07T00:00:00+01:00",
-      "end": "2017-03-07T23:59:00+01:00",
-      "catchupExpiration": "2017-03-10T00:00:00+01:00"
+      "channelId": "cw",
+      "channelTitle": "Comedy Central",
+      "start": "2017-03-08T00:00:00+01:00",
+      "end": "2017-03-08T23:59:00+01:00",
+      "catchupExpiration": "2017-03-11T00:00:00+01:00"
     },
     {
       "id": "dummy_program_id",
@@ -20,12 +18,10 @@
       "images": {
         "CarouselLandscapeHeader": "https://img.noriginmedia.com/cloudberry/slide_supernatural.jpg"
       },
-      "channelInfo": {
-        "id": "cw",
-        "title": "The CW"
-      },
-      "start": "2017-03-07T23:58:00+01:00",
-      "end": "2017-03-07T23:59:00+01:00",
+      "channelId": "cw",
+      "channelTitle": "The CW",
+      "start": "2017-03-08T00:00:00+01:00",
+      "end": "2017-03-08T23:59:00+01:00",
       "catchupExpiration": "2017-03-10T00:00:00+01:00"
     },
     {
@@ -34,13 +30,11 @@
       "images": {
         "CarouselLandscapeHeader": "https://img.noriginmedia.com/cloudberry/slide_vikings.jpg"
       },
-      "channelInfo": {
-        "id": "history",
-        "title": "History"
-      },
-      "start": "2017-03-07T00:00:00+01:00",
-      "end": "2017-03-07T00:01:00+01:00",
-      "catchupExpiration": "2017-03-10T00:00:00+01:00"
+      "channelId": "history",
+      "channelTitle": "History",
+      "start": "2017-03-08T00:00:00+01:00",
+      "end": "2017-03-08T00:01:00+01:00",
+      "catchupExpiration": "2017-03-11T00:00:00+01:00"
     },
     {
       "id": "dummy_program_id",
@@ -48,12 +42,11 @@
       "images": {
         "CarouselLandscapeHeader": "https://img.noriginmedia.com/cloudberry/slide_big_bang_theory.jpg"
       },
-      "channelInfo": {
-        "id": "cw",
-        "title": "CBS"
-      },
-      "start": "2017-03-07T23:58:00+01:00",
-      "end": "2017-03-07T23:59:00+01:00"
+      "channelId": "cw",
+      "channelTitle": "CBS",
+      "start": "2017-03-08T23:58:00+01:00",
+      "end": "2017-03-08T23:59:00+01:00",
+      "catchupExpiration": "2017-03-11T00:00:00+01:00"
     },
     {
       "id": "dummy_program_id",
@@ -61,12 +54,10 @@
       "images": {
         "CarouselLandscapeHeader": "https://img.noriginmedia.com/cloudberry/slide_game_of_thrones.jpg"
       },
-      "channelInfo": {
-        "id": "hbo",
-        "title": "HBO"
-      },
-      "start": "2017-03-07T00:00:00+01:00",
-      "end": "2017-03-07T00:01:00+01:00",
+      "channelId": "hbo",
+      "channelTitle": "HBO",
+      "start": "2017-03-08T23:58:00+01:00",
+      "end": "2017-03-08T23:59:00+01:00",
       "catchupExpiration": "2017-03-10T00:00:00+01:00"
     }
   ]

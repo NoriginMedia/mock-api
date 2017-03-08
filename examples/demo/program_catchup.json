@@ -1,18 +1,16 @@
 {
   "id": "program_catchup_id",
   "title": "Vikings (Catchup)",
-  "start": "2017-03-07T00:00:00+01:00",
-  "end": "2017-03-07T00:01:00+01:00",
-  "catchupExpiration": "2017-03-10T00:00:00+01:00",
+  "start": "2017-03-08T00:00:00+01:00",
+  "end": "2017-03-08T00:01:00+01:00",
+  "catchupExpiration": "2017-03-11T00:00:00+01:00",
   "images": {
     "CarouselLandscapeHeader": "https://www.woodbangersentertainment.com/wp-content/uploads/2016/07/vikings.jpg"
   },
-  "channelInfo": {
-    "id": "history",
-    "title": "History",
-    "images": {
-      "LOGO": "https://img.noriginmedia.com/cloudberry/logo_history.png"
-    }
+  "channelId": "history",
+  "channelTitle": "History",
+  "channelImages": {
+    "logo": "https://img.noriginmedia.com/cloudberry/logo_history.png"
   },
   "meta": {
     "year": "2013",

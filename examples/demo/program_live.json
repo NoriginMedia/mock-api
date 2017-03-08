@@ -1,17 +1,15 @@
 {
   "id": "program_live_id",
   "title": "Vikings (Live)",
-  "start": "2017-03-07T00:00:00+01:00",
-  "end": "2017-03-07T23:59:00+01:00",
+  "start": "2017-03-08T00:00:00+01:00",
+  "end": "2017-03-08T23:59:00+01:00",
   "images": {
     "CarouselLandscapeHeader": "https://img.noriginmedia.com/cloudberry/categories_vikings.jpg"
   },
-  "channelInfo": {
-    "id": "history",
-    "title": "History",
-    "images": {
-      "LOGO": "https://img.noriginmedia.com/cloudberry/logo_history.png"
-    }
+  "channelId": "history",
+  "channelTitle": "History",
+  "channelImages": {
+    "logo": "https://img.noriginmedia.com/cloudberry/logo_history.png"
   },
   "meta": {
     "year": "2013",
