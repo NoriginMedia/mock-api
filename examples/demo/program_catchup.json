@@ -5,7 +5,7 @@
   "end": "2017-03-18T00:01:00+01:00",
   "catchupExpiration": "2017-03-21T00:00:00+01:00",
   "images": {
-    "CarouselLandscapeHeader": "https://www.woodbangersentertainment.com/wp-content/uploads/2016/07/vikings.jpg"
+    "icon": "https://www.woodbangersentertainment.com/wp-content/uploads/2016/07/vikings.jpg"
   },
   "channelId": "history",
   "channelTitle": "History",

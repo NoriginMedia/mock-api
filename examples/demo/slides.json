@@ -4,7 +4,7 @@
       "id": "dummy_program_id",
       "title": "Downtown Abbey",
       "images": {
-        "CarouselLandscapeHeader": "https://img.noriginmedia.com/cloudberry/slide_downtown_abbey.jpg"
+        "icon": "https://img.noriginmedia.com/cloudberry/slide_downtown_abbey.jpg"
       },
       "channelId": "cw",
       "channelTitle": "Comedy Central",
@@ -16,7 +16,7 @@
       "id": "dummy_program_id",
       "title": "Supernatural",
       "images": {
-        "CarouselLandscapeHeader": "https://img.noriginmedia.com/cloudberry/slide_supernatural.jpg"
+        "icon": "https://img.noriginmedia.com/cloudberry/slide_supernatural.jpg"
       },
       "channelId": "cw",
       "channelTitle": "The CW",
@@ -28,7 +28,7 @@
       "id": "dummy_program_id",
       "title": "Vikings",
       "images": {
-        "CarouselLandscapeHeader": "https://img.noriginmedia.com/cloudberry/slide_vikings.jpg"
+        "icon": "https://img.noriginmedia.com/cloudberry/slide_vikings.jpg"
       },
       "channelId": "history",
       "channelTitle": "History",
@@ -40,7 +40,7 @@
       "id": "dummy_program_id",
       "title": "Big Bang Theory",
       "images": {
-        "CarouselLandscapeHeader": "https://img.noriginmedia.com/cloudberry/slide_big_bang_theory.jpg"
+        "icon": "https://img.noriginmedia.com/cloudberry/slide_big_bang_theory.jpg"
       },
       "channelId": "cw",
       "channelTitle": "CBS",
@@ -52,7 +52,7 @@
       "id": "dummy_program_id",
       "title": "Game of Thrones",
       "images": {
-        "CarouselLandscapeHeader": "https://img.noriginmedia.com/cloudberry/slide_game_of_thrones.jpg"
+        "icon": "https://img.noriginmedia.com/cloudberry/slide_game_of_thrones.jpg"
       },
       "channelId": "hbo",
       "channelTitle": "HBO",
