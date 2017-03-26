@@ -21,15 +21,36 @@
       "Adventures"
     ],
     "cast": [
-      "Travis Fimmel",
-      "Katheryn Winnick",
-      "Clive Standen",
-      "Gustaf Skarsgård"
+      {
+        "name": "Travis Fimmel",
+        "role": ""
+      },
+      {
+        "name": "Katheryn Winnick",
+        "role": ""
+      },
+      {
+        "name": "Clive Standen",
+        "role": ""
+      },
+      {
+        "name": "Gustaf Skarsgård",
+        "role": ""
+      }
     ],
     "creators": [
-      "Michael Hirst",
-      "John Bartley",
-      "James Flynn"
+      {
+        "name": "Michael Hirst",
+        "role": ""
+      },
+      {
+        "name": "John Bartley",
+        "role": ""
+      },
+      {
+        "name": "James Flynn",
+        "role": ""
+      }
     ]
   },
   "series": [
