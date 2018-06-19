@@ -50,9 +50,6 @@ for (var i = 0; i < channels.length; i++) {
   channels[i].schedules = schedules;
 }
 
-<<<<<<< HEAD
+
 epgData.channels = channels;
 jsonfile.writeFileSync(file, epgData, {spaces: 2});
-=======
-jsonfile.writeFileSync(file, epgData, {spaces: 2});
->>>>>>> 3545816... Fix added to resolve epg json path as a package
