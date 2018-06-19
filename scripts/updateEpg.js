@@ -3,6 +3,11 @@ var moment = require("moment");
 
 var file = "examples/demo/epg.json";
 
+// Todo remove this - Quick fix to allow resolving of module path when run from parent project
+if(__dirname.indexOf("node_modules")) {
+    file = "node_modules/nm-mock-api/" + file;
+}
+
 var epgData = jsonfile.readFileSync(file);
 var channels = epgData.channels;
 
@@ -45,5 +50,9 @@ for (var i = 0; i < channels.length; i++) {
   channels[i].schedules = schedules;
 }
 
+<<<<<<< HEAD
 epgData.channels = channels;
 jsonfile.writeFileSync(file, epgData, {spaces: 2});
+=======
+jsonfile.writeFileSync(file, epgData, {spaces: 2});
+>>>>>>> 3545816... Fix added to resolve epg json path as a package
