@@ -8,9 +8,9 @@
       },
       "channelId": "cw",
       "channelTitle": "Comedy Central",
-      "start": "2017-03-18T23:58:00+01:00",
-      "end": "2017-03-18T23:59:00+01:00",
-      "catchupExpiration": "2017-03-12T00:00:00+01:00"
+      "start": "2018-10-26T00:00:00+02:00",
+      "end": "2018-10-26T23:59:00+02:00",
+      "catchupExpiration": "2018-10-28T00:00:00+02:00"
     },
     {
       "id": "dummy_program_id",
@@ -20,9 +20,9 @@
       },
       "channelId": "cw",
       "channelTitle": "The CW",
-      "start": "2017-03-18T00:00:00+01:00",
-      "end": "2017-03-18T00:01:00+01:00",
-      "catchupExpiration": "2017-03-21T00:00:00+01:00"
+      "start": "2018-10-26T00:00:00+02:00",
+      "end": "2018-10-26T23:59:00+02:00",
+      "catchupExpiration": "2018-10-27T00:00:00+02:00"
     },
     {
       "id": "dummy_program_id",
@@ -32,9 +32,9 @@
       },
       "channelId": "history",
       "channelTitle": "History",
-      "start": "2017-03-18T00:00:00+01:00",
-      "end": "2017-03-18T00:01:00+01:00",
-      "catchupExpiration": "2017-03-21T00:00:00+01:00"
+      "start": "2018-10-26T00:00:00+02:00",
+      "end": "2018-10-26T00:01:00+02:00",
+      "catchupExpiration": "2018-10-29T00:00:00+01:00"
     },
     {
       "id": "dummy_program_id",
@@ -44,9 +44,9 @@
       },
       "channelId": "cw",
       "channelTitle": "CBS",
-      "start": "2017-03-18T00:00:00+01:00",
-      "end": "2017-03-18T23:59:00+01:00",
-      "catchupExpiration": "2017-03-12T00:00:00+01:00"
+      "start": "2018-10-26T00:00:00+02:00",
+      "end": "2018-10-26T00:01:00+02:00",
+      "catchupExpiration": "2018-10-29T00:00:00+01:00"
     },
     {
       "id": "dummy_program_id",
@@ -56,9 +56,9 @@
       },
       "channelId": "hbo",
       "channelTitle": "HBO",
-      "start": "2017-03-18T00:00:00+01:00",
-      "end": "2017-03-18T23:59:00+01:00",
-      "catchupExpiration": "2017-03-12T00:00:00+01:00"
+      "start": "2018-10-26T00:00:00+02:00",
+      "end": "2018-10-26T23:59:00+02:00",
+      "catchupExpiration": "2018-10-29T00:00:00+01:00"
     }
   ]
 }

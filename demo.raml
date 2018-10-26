@@ -42,6 +42,14 @@ title: "Norigin Media Mock API"
           application/json:
             example: !include examples/demo/epg.json
 
+/favoriteChannels/{userId}:
+    get:
+      responses:
+        200:
+          body:
+            application/json:
+              example: !include examples/demo/favorite_channels_user.json
+
 /channel:
   /{channelId}:
     get:
@@ -82,3 +90,11 @@ title: "Norigin Media Mock API"
           body:
             application/json:
               example: !include examples/demo/program_future.json
+
+  /progress/{userId}:
+    get:
+      responses:
+        200:
+          body:
+            application/json:
+              example: !include examples/demo/program_progress_user.json

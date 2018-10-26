@@ -29,8 +29,8 @@
     "dummy_program_id": {
       "id": "dummy_program_id",
       "title": "Vikings (Future)",
-      "start": "2017-03-18T23:58:00+01:00",
-      "end": "2017-03-18T23:59:00+01:00",
+      "start": "2018-10-26T23:58:00+02:00",
+      "end": "2018-10-26T23:59:00+02:00",
       "images": {
         "icon": "https://img.noriginmedia.com/cloudberry/slide_vikings.jpg"
       }
@@ -38,8 +38,8 @@
     "program_live_id": {
       "id": "program_live_id",
       "title": "Vikings (Live)",
-      "start": "2017-03-18T00:00:00+01:00",
-      "end": "2017-03-18T23:59:00+01:00",
+      "start": "2018-10-26T00:00:00+02:00",
+      "end": "2018-10-26T23:59:00+02:00",
       "images": {
         "icon": "https://img.noriginmedia.com/cloudberry/categories_vikings.jpg"
       }
@@ -47,9 +47,9 @@
     "program_catchup_id": {
       "id": "program_catchup_id",
       "title": "Vikings (Catchup)",
-      "start": "2017-03-18T00:00:00+01:00",
-      "end": "2017-03-18T00:01:00+01:00",
-      "catchupExpiration": "2017-03-21T00:00:00+01:00",
+      "start": "2018-10-26T00:00:00+02:00",
+      "end": "2018-10-26T00:01:00+02:00",
+      "catchupExpiration": "2018-10-29T00:00:00+01:00",
       "images": {
         "icon": "https://www.woodbangersentertainment.com/wp-content/uploads/2016/07/vikings.jpg"
       }
